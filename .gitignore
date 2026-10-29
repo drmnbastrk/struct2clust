@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# generated content: example data and results, validation runs and data
+# (written by the scripts in example/ and validation/; not part of the repository;
+# validation/results/ holds the result tables of METHODS.md and is part of it)
+example/data/
+example/results/
+validation/runs*/
+results/
+!validation/results/
+logs/
+.cache/
+*.npy
+*.npz
+*.dcd
+*.xtc
+*.trr
+*.nc
+*_offsets.lock
+validation/real_data/
+.claude/

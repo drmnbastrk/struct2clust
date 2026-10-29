@@ -1,0 +1,7 @@
+threshold,fraction,own_setting,conclusion,n_clusters,noise,ari_to_run,seconds
+0.7,0.5,False,distinct_states,5,0.0068,0.982,19.9
+0.7,0.8,False,distinct_states,5,0.137,0.691,17.4
+0.75,0.5,False,no_reproducible_partition,3,0.0068,0.895,8.4
+0.75,0.8,True,distinct_states,4,0.0,1.0,12.6
+0.8,0.5,False,no_reproducible_partition,3,0.0068,0.895,6.5
+0.8,0.8,False,distinct_states,4,0.0068,0.996,9.5

@@ -1,0 +1,7 @@
+# Settings for the two crystal-structure ensembles (several hundred structures).
+# cluster_views/ shows the 50 members closest to each medoid, which keeps the
+# viewer files small; all members are still clustered and listed in clusters.csv.
+#   struct2clust run example/data/endothiapepsin -c example/large_ensembles.yaml -o example/results
+#   struct2clust run example/data/eralpha -c example/large_ensembles.yaml -o example/results
+figures:
+  cluster_view_max_members: 50

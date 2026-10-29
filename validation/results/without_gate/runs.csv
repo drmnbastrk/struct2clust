@@ -1,0 +1,61 @@
+scenario,seed,verdict,dip_p,spectral_k,reproducible,conclusion,sampling_sufficient,longer_than_block,without_transitions,conclusion_if_sampling_sufficient,blocks,second_pass,first_pass_conclusion,n_selected,n_top,n_final,top_level_merges,tiers,best_tier,ari_top,ari_final,noise_top,noise_final,seconds,n_splits,n_substructure
+refine_null_banana,0,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,6,0,HIGH HIGH HIGH HIGH HIGH HIGH,HIGH,1.0,0.4575273454547954,0.0,0.056666666666666664,146.9,2,0
+refine_null_banana,1,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,5,0,HIGH HIGH HIGH HIGH HIGH,HIGH,1.0,0.6236028295082408,0.0,0.05,132.3,1,0
+refine_null_banana,2,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,7,0,HIGH HIGH HIGH HIGH HIGH HIGH HIGH,HIGH,1.0,0.6074184075524536,0.0,0.07,105.7,2,0
+refine_null_banana,3,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,66.8,0,0
+refine_null_banana,4,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,63.3,0,0
+refine_null_banana,5,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,5,0,HIGH HIGH HIGH HIGH HIGH,HIGH,1.0,0.3811601699098518,0.0,0.1,170.4,2,0
+refine_null_banana,6,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,48.5,0,0
+refine_null_banana,7,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,104.7,0,0
+refine_null_banana,8,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,1.0,0.8915090454882367,0.0,0.013333333333333334,120.7,1,0
+refine_null_banana,9,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,5,0,HIGH HIGH HIGH HIGH HIGH,HIGH,1.0,0.6318284948200278,0.0,0.04666666666666667,102.9,2,0
+refine_null_dominant,0,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,103.8,0,0
+refine_null_dominant,1,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,64.3,0,0
+refine_null_dominant,2,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,68.1,0,0
+refine_null_dominant,3,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,69.3,0,0
+refine_null_dominant,4,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,63.1,0,0
+refine_null_dominant,5,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,66.6,0,0
+refine_null_dominant,6,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,68.4,0,0
+refine_null_dominant,7,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,81.6,0,0
+refine_null_dominant,8,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,67.1,0,0
+refine_null_dominant,9,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,66.1,0,0
+refine_null_elongated,0,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,1.0,0.6668272232016038,0.0,0.14333333333333334,99.7,1,0
+refine_null_elongated,1,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,39.0,0,0
+refine_null_elongated,2,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,57.0,0,0
+refine_null_elongated,3,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,1.0,0.7397484673099006,0.0,0.07666666666666666,83.7,1,0
+refine_null_elongated,4,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,52.4,0,0
+refine_null_elongated,5,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,1.0,0.8300464797973972,0.0,0.06333333333333334,104.5,1,0
+refine_null_elongated,6,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,39.2,0,0
+refine_null_elongated,7,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,1.0,0.7164282578257968,0.0,0.11,69.9,1,0
+refine_null_elongated,8,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,45.6,0,0
+refine_null_elongated,9,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,41.4,0,0
+refine_null_gauss,0,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,38.5,0,0
+refine_null_gauss,1,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,33.0,0,0
+refine_null_gauss,2,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,34.1,0,0
+refine_null_gauss,3,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,34.4,0,0
+refine_null_gauss,4,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,35.1,0,0
+refine_null_gauss,5,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,38.0,0,0
+refine_null_gauss,6,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,32.7,0,0
+refine_null_gauss,7,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,38.2,0,0
+refine_null_gauss,8,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,40.0,0,0
+refine_null_gauss,9,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,39.2,0,0
+refine_null_gradient,0,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,41.1,0,0
+refine_null_gradient,1,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,34.7,0,0
+refine_null_gradient,2,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,40.9,0,0
+refine_null_gradient,3,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,47.1,0,0
+refine_null_gradient,4,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,39.5,0,0
+refine_null_gradient,5,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,57.3,0,0
+refine_null_gradient,6,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,1.0,0.9129279694849268,0.0,0.02,51.2,1,0
+refine_null_gradient,7,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,50.9,0,0
+refine_null_gradient,8,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,36.5,0,0
+refine_null_gradient,9,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,57.0,0,0
+refine_null_uniform,0,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,41.9,0,0
+refine_null_uniform,1,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,41.1,0,0
+refine_null_uniform,2,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,38.1,0,0
+refine_null_uniform,3,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,39.0,0,0
+refine_null_uniform,4,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,38.8,0,0
+refine_null_uniform,5,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,40.0,0,0
+refine_null_uniform,6,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,38.5,0,0
+refine_null_uniform,7,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,40.7,0,0
+refine_null_uniform,8,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,40.3,0,0
+refine_null_uniform,9,,,,True,partition_not_confirmed,,0,0,,,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,39.8,0,0

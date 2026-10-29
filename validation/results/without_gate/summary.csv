@@ -1,0 +1,7 @@
+scenario,runs,dip_significant,eigengap_k2,clusterable,weak,reproducible,distinct_states,partition_not_confirmed,insufficient_sampling,distinct_if_sufficient,second_pass_rate,any_high,n_top_mean,n_final_mean,split_rate,substructure_rate,top_merge_rate,ari_final,noise_final,seconds_median
+refine_null_banana,10,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,3.9,0.6,0.0,0.0,0.759,0.034,105.2
+refine_null_dominant,10,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,67.6
+refine_null_elongated,10,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,2.4,0.4,0.0,0.0,0.895,0.039,54.7
+refine_null_gauss,10,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,36.55
+refine_null_gradient,10,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,2.1,0.1,0.0,0.0,0.991,0.002,44.1
+refine_null_uniform,10,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,39.9

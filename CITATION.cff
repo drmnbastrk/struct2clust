@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Struct2Clust: Reproducible Clustering of Biomolecular Structural Ensembles and MD Trajectories"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Basturk"
+    given-names: "Derman"
+repository-code: "https://github.com/drmnbastrk/struct2clust"
+license: MIT
+keywords:
+  - structural biology
+  - clustering
+  - HDBSCAN
+  - cluster stability
+  - molecular dynamics
+  - RNA
+  - protein
+references:
+  - type: article
+    title: "Cluster-wise assessment of cluster stability"
+    authors:
+      - family-names: "Hennig"
+        given-names: "Christian"
+    journal: "Computational Statistics & Data Analysis"
+    volume: 52
+    start: 258
+    end: 271
+    year: 2007
+  - type: conference-paper
+    title: "Density-based clustering based on hierarchical density estimates"
+    authors:
+      - family-names: "Campello"
+        given-names: "Ricardo J. G. B."
+      - family-names: "Moulavi"
+        given-names: "Davoud"
+      - family-names: "Sander"
+        given-names: "Joerg"
+    collection-title: "Advances in Knowledge Discovery and Data Mining (PAKDD)"
+    volume: 7819
+    start: 160
+    end: 172
+    year: 2013

@@ -1,0 +1,10 @@
+scenario,data_seed,runs,partitions,agree_with_most,n_final,borderline_runs,median_seconds
+refine_pos_5sigma,0,8,1,8,4,0,80.3
+refine_pos_5sigma,1,8,1,8,3,0,90.30000000000001
+refine_pos_5sigma,2,8,1,8,2,0,56.75
+top_null_banana,0,8,2,5,2,8,57.25
+top_null_banana,1,8,3,6,2,0,16.799999999999997
+top_null_banana,2,8,1,8,2,8,162.0
+top_pos_3groups_4sigma,0,8,1,8,2,8,35.3
+top_pos_3groups_4sigma,1,8,1,8,2,0,98.69999999999999
+top_pos_3groups_4sigma,2,8,3,4,2/3,0,28.549999999999997

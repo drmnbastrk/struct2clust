@@ -1,0 +1,2 @@
+# Only for validation/alternative_rules.py (the DBCV index); not needed by Struct2Clust.
+hdbscan==0.8.44

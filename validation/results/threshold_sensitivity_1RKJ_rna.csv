@@ -1,0 +1,7 @@
+threshold,fraction,own_setting,conclusion,n_clusters,noise,ari_to_run,seconds
+0.7,0.5,False,insufficient_sampling,2,0.0,1.0,27.7
+0.7,0.8,False,insufficient_sampling,2,0.0,1.0,41.0
+0.75,0.5,True,insufficient_sampling,2,0.0,1.0,26.9
+0.75,0.8,False,insufficient_sampling,2,0.0,1.0,50.3
+0.8,0.5,False,insufficient_sampling,2,0.0,1.0,32.8
+0.8,0.8,False,insufficient_sampling,2,0.0,1.0,64.3

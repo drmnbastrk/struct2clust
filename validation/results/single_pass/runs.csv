@@ -1,0 +1,751 @@
+scenario,seed,verdict,dip_p,spectral_k,reproducible,conclusion,sampling_sufficient,longer_than_block,without_transitions,conclusion_if_sampling_sufficient,blocks,second_pass,first_pass_conclusion,n_selected,n_top,n_final,top_level_merges,tiers,best_tier,ari_top,ari_final,noise_top,noise_final,seconds,n_splits,n_substructure
+refine_null_md_drift,0,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,10 14,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,237.2,0,0
+refine_null_md_drift,1,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,10 19,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,167.3,0,0
+refine_null_md_drift,2,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,10 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,421.9,0,0
+refine_null_md_drift,3,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,13 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1144.6,0,0
+refine_null_md_drift,4,CLUSTERABLE,0.0,5,True,insufficient_sampling,False,0,2,distinct_states,12 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,264.8,0,0
+refine_null_md_drift,5,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,10 14,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,894.2,0,0
+refine_null_md_drift,6,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,10 16,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,318.0,0,0
+refine_null_md_drift,7,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,10 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,513.5,0,0
+refine_null_md_drift,8,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,11 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,297.7,0,0
+refine_null_md_drift,9,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,14 16,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,452.3,0,0
+refine_null_md_drift,10,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,11 13,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1724.2,0,0
+refine_null_md_drift,11,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,9 8,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,408.9,0,0
+refine_null_md_drift,12,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,23 12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,890.9,0,0
+refine_null_md_drift,13,CLUSTERABLE,0.0,4,True,insufficient_sampling,False,0,2,distinct_states,9 18,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,976.8,0,0
+refine_null_md_drift,14,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,9 8,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1951.2,0,0
+refine_null_md_drift,15,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,15 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,497.6,0,0
+refine_null_md_drift,16,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,13 18,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,598.3,0,0
+refine_null_md_drift,17,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,15 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,433.2,0,0
+refine_null_md_drift,18,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,15 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,699.3,0,0
+refine_null_md_drift,19,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,9 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,517.2,0,0
+refine_null_md_drift,20,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,12 12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1017.3,0,0
+refine_null_md_drift,21,CLUSTERABLE,0.0,5,True,insufficient_sampling,False,0,2,distinct_states,9 8,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1916.1,0,0
+refine_null_md_drift,22,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,14 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,459.1,0,0
+refine_null_md_drift,23,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,10 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,2083.0,0,0
+refine_null_md_drift,24,CLUSTERABLE,0.0,6,True,insufficient_sampling,False,0,2,distinct_states,10 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,562.7,0,0
+refine_null_md_drift,25,CLUSTERABLE,0.0,5,True,insufficient_sampling,False,0,2,distinct_states,9 8,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,881.1,0,0
+refine_null_md_drift,26,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,9 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,332.8,0,0
+refine_null_md_drift,27,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,14 14,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1409.8,0,0
+refine_null_md_drift,28,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,17 23,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,169.1,0,0
+refine_null_md_drift,29,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,11 15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,352.1,0,0
+refine_null_md_drift,30,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,10 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1968.5,0,0
+refine_null_md_drift,31,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,10 13,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,2179.8,0,0
+refine_null_md_drift,32,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,11 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,276.4,0,0
+refine_null_md_drift,33,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,13 12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,378.3,0,0
+refine_null_md_drift,34,CLUSTERABLE,0.0,5,True,insufficient_sampling,False,0,2,distinct_states,16 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1295.3,0,0
+refine_null_md_drift,35,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,0,2,distinct_states,10 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,408.6,0,0
+refine_null_md_drift,36,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,17 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,690.5,0,0
+refine_null_md_drift,37,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,12 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,695.9,0,0
+refine_null_md_drift,38,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,11 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,527.9,0,0
+refine_null_md_drift,39,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,15 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,186.0,0,0
+refine_null_md_drift,40,CLUSTERABLE,0.0,8,True,insufficient_sampling,False,0,2,distinct_states,18 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,207.7,0,0
+refine_null_md_drift,41,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,9 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,905.0,0,0
+refine_null_md_drift,42,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,13 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,448.6,0,0
+refine_null_md_drift,43,CLUSTERABLE,0.0,9,True,insufficient_sampling,False,0,2,distinct_states,9 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1909.2,0,0
+refine_null_md_drift,44,CLUSTERABLE,0.0,6,True,insufficient_sampling,False,0,2,distinct_states,15 15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,547.7,0,0
+refine_null_md_drift,45,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,16 13,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,396.0,0,0
+refine_null_md_drift,46,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,10 12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,233.7,0,0
+refine_null_md_drift,47,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,10 18,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1665.2,0,0
+refine_null_md_drift,48,CLUSTERABLE,0.0,10,True,insufficient_sampling,False,0,2,distinct_states,10 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,571.7,0,0
+refine_null_md_drift,49,CLUSTERABLE,0.0,7,True,insufficient_sampling,False,0,2,distinct_states,8 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,330.5,0,0
+top_null_md_drift,0,WEAK,0.9917301449549395,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.022,0.022,46.5,0,0
+top_null_md_drift,1,WEAK,0.9895773530459189,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.024,0.024,29.9,0,0
+top_null_md_drift,2,WEAK,0.99372310789933,10,False,insufficient_sampling,False,5,0,no_reproducible_partition,10,False,,5,5,5,0,LOW MODERATE LOW LOW LOW,MODERATE,0.0,0.0,0.048,0.048,27.9,0,0
+top_null_md_drift,3,WEAK,0.9946305864454626,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,38.5,0,0
+top_null_md_drift,4,WEAK,0.9953452926536429,6,False,insufficient_sampling,False,3,0,no_reproducible_partition,12,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.006,0.006,32.1,0,0
+top_null_md_drift,5,WEAK,0.99896917260587,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.092,0.092,57.2,0,0
+top_null_md_drift,6,WEAK,0.9938325417763189,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.002,0.002,34.8,0,0
+top_null_md_drift,7,WEAK,0.9926346046950553,10,False,insufficient_sampling,False,1,0,no_reproducible_partition,10,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.194,0.194,29.1,0,0
+top_null_md_drift,8,WEAK,0.9939725204127879,8,False,insufficient_sampling,False,3,0,no_reproducible_partition,11,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.032,0.032,31.3,0,0
+top_null_md_drift,9,WEAK,0.9636200658848446,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.306,0.306,28.9,0,0
+top_null_md_drift,10,WEAK,0.9902172660053874,10,False,insufficient_sampling,False,4,0,no_reproducible_partition,11,False,,4,4,4,0,MODERATE MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.082,0.082,32.2,0,0
+top_null_md_drift,11,WEAK,0.9840375102039693,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,42.5,0,0
+top_null_md_drift,12,WEAK,1.0,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,23,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,31.0,0,0
+top_null_md_drift,13,WEAK,0.9971929017305476,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.08,0.08,26.5,0,0
+top_null_md_drift,14,WEAK,1.0,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.01,0.01,29.3,0,0
+top_null_md_drift,15,WEAK,0.9498462927962888,7,False,insufficient_sampling,False,3,0,no_reproducible_partition,15,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.172,0.172,33.3,0,0
+top_null_md_drift,16,WEAK,0.9948142795994718,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.042,0.042,29.4,0,0
+top_null_md_drift,17,WEAK,0.9925249836526381,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,15,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.416,0.416,29.5,0,0
+top_null_md_drift,18,WEAK,0.9945187269955001,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,15,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.17,0.17,27.5,0,0
+top_null_md_drift,19,WEAK,0.9961373798995652,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,32.0,0,0
+top_null_md_drift,20,WEAK,0.9930586616477718,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,12,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.22,0.22,38.0,0,0
+top_null_md_drift,21,WEAK,0.9842084044156021,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.016,0.016,33.8,0,0
+top_null_md_drift,22,WEAK,0.9974941865067459,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,14,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.126,0.126,29.7,0,0
+top_null_md_drift,23,WEAK,0.9949593431033651,9,False,insufficient_sampling,False,4,0,no_reproducible_partition,10,False,,4,4,4,0,MODERATE MODERATE LOW LOW,MODERATE,0.0,0.0,0.026,0.026,29.4,0,0
+top_null_md_drift,24,WEAK,1.0,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.07,0.07,30.0,0,0
+top_null_md_drift,25,CLUSTERABLE,1.795790500302985e-06,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,HIGH MODERATE,HIGH,0.0,0.0,0.158,0.158,31.9,0,0
+top_null_md_drift,26,CLUSTERABLE,0.0009828024514325628,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.068,0.068,24.2,0,0
+top_null_md_drift,27,WEAK,0.9970760162854262,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,30.2,0,0
+top_null_md_drift,28,WEAK,0.9987085621550799,8,False,insufficient_sampling,False,4,0,no_reproducible_partition,17,False,,4,4,4,0,MODERATE MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.078,0.078,29.6,0,0
+top_null_md_drift,29,WEAK,0.9934198671420009,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,37.3,0,0
+top_null_md_drift,30,WEAK,0.9999024219598016,9,True,insufficient_sampling,False,2,0,partition_not_confirmed,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.002,0.002,209.3,0,0
+top_null_md_drift,31,WEAK,0.9952930111697974,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.17,0.17,28.3,0,0
+top_null_md_drift,32,WEAK,0.9950248229210056,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,11,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.062,0.062,52.0,0,0
+top_null_md_drift,33,WEAK,0.42093047713171605,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.036,0.036,28.2,0,0
+top_null_md_drift,34,WEAK,0.9982222052126988,8,False,insufficient_sampling,False,3,0,no_reproducible_partition,16,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.03,0.03,30.3,0,0
+top_null_md_drift,35,WEAK,0.9880340729975459,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,3,3,3,0,LOW MODERATE LOW,MODERATE,0.0,0.0,0.214,0.214,28.3,0,0
+top_null_md_drift,36,WEAK,0.9811821372182379,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,17,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.02,0.02,27.3,0,0
+top_null_md_drift,37,WEAK,0.9260634600979123,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,12,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.048,0.048,27.0,0,0
+top_null_md_drift,38,WEAK,0.9962439954719823,10,False,insufficient_sampling,False,1,0,no_reproducible_partition,11,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.0,0.0,41.7,0,0
+top_null_md_drift,39,WEAK,0.4325801092941953,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,15,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.026,0.026,30.5,0,0
+top_null_md_drift,40,WEAK,0.9917140980372786,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,18,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.168,0.168,31.4,0,0
+top_null_md_drift,41,WEAK,0.9967064082280537,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.112,0.112,42.8,0,0
+top_null_md_drift,42,WEAK,0.9921470852594281,5,False,insufficient_sampling,False,3,0,no_reproducible_partition,13,False,,3,3,3,0,LOW LOW MODERATE,MODERATE,0.0,0.0,0.046,0.046,26.7,0,0
+top_null_md_drift,43,WEAK,0.9907781950759286,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.014,0.014,29.6,0,0
+top_null_md_drift,44,WEAK,0.9945940295627531,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,15,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.084,0.084,44.4,0,0
+top_null_md_drift,45,WEAK,0.9918987146601789,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,16,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.008,0.008,33.4,0,0
+top_null_md_drift,46,WEAK,0.9923975677712931,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.0,0.0,30.8,0,0
+top_null_md_drift,47,WEAK,0.9911144791085498,10,False,insufficient_sampling,False,1,0,no_reproducible_partition,10,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.142,0.142,27.5,0,0
+top_null_md_drift,48,WEAK,0.9967790382795212,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,10,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.006,0.006,35.1,0,0
+top_null_md_drift,49,WEAK,0.9860939267461694,8,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.072,0.072,26.7,0,0
+traj_heldout_null_anisotropic,0,WEAK,1.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.024,0.024,329.2,0,0
+traj_heldout_null_anisotropic,1,WEAK,0.9997959112387863,3,False,no_reproducible_partition,True,0,0,,25,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.051,0.051,72.2,0,0
+traj_heldout_null_anisotropic,2,WEAK,0.998498358494636,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.033,0.033,353.1,0,0
+traj_heldout_null_anisotropic,3,WEAK,1.0,3,True,insufficient_sampling,False,2,0,partition_not_confirmed,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,458.0,0,0
+traj_heldout_null_anisotropic,4,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,8,False,,2,2,2,0,HIGH HIGH,HIGH,0.0,0.0,0.031,0.031,258.9,0,0
+traj_heldout_null_anisotropic,5,CLUSTERABLE,0.01637173714585305,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE HIGH,HIGH,0.0,0.0,0.125,0.125,537.9,0,0
+traj_heldout_null_anisotropic,6,WEAK,0.9970354637516566,4,False,no_reproducible_partition,True,0,0,,10,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.144,0.144,81.9,0,0
+traj_heldout_null_anisotropic,7,WEAK,0.9994233976388119,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.227,0.227,82.2,0,0
+traj_heldout_null_anisotropic,8,WEAK,1.0,3,False,insufficient_sampling,False,1,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.302,0.302,89.4,0,0
+traj_heldout_null_anisotropic,9,WEAK,0.9998333553301112,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,21,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.264,0.264,78.9,0,0
+traj_heldout_null_anisotropic,10,WEAK,0.9945560259627707,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.297,0.297,87.1,0,0
+traj_heldout_null_anisotropic,11,WEAK,0.938523661341997,4,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.013,0.013,93.4,0,0
+traj_heldout_null_anisotropic,12,WEAK,0.9941368198065563,2,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.634,0.634,70.2,0,0
+traj_heldout_null_anisotropic,13,WEAK,0.9931356916056149,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.064,0.064,124.5,0,0
+traj_heldout_null_anisotropic,14,CLUSTERABLE,0.0,4,False,insufficient_sampling,False,1,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.172,0.172,79.3,0,0
+traj_heldout_null_anisotropic,15,WEAK,0.9993521254369395,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.09,0.09,228.2,0,0
+traj_heldout_null_anisotropic,16,NOT_CLUSTERABLE,0.9991149738979794,1,False,no_reproducible_partition,True,0,0,,21,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.117,0.117,56.9,0,0
+traj_heldout_null_anisotropic,17,WEAK,0.9998394815614603,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,12,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.028,0.028,108.2,0,0
+traj_heldout_null_anisotropic,18,WEAK,0.998491910482811,3,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.305,0.305,81.7,0,0
+traj_heldout_null_anisotropic,19,WEAK,0.996754704118613,2,False,no_reproducible_partition,True,0,0,,22,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.578,0.578,84.5,0,0
+traj_heldout_null_anisotropic,20,WEAK,1.0,5,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.11,0.11,78.1,0,0
+traj_heldout_null_anisotropic,21,WEAK,0.9935410409751743,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.353,0.353,77.2,0,0
+traj_heldout_null_anisotropic,22,CLUSTERABLE,0.0,5,True,insufficient_sampling,False,2,0,distinct_states,8,False,,2,2,2,0,HIGH HIGH,HIGH,0.0,0.0,0.034,0.034,529.1,0,0
+traj_heldout_null_anisotropic,23,WEAK,0.9966119725143334,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,16,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.065,0.065,560.6,0,0
+traj_heldout_null_anisotropic,24,WEAK,0.99810317149456,2,False,no_reproducible_partition,True,0,0,,21,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.461,0.461,50.8,0,0
+traj_heldout_null_anisotropic,25,WEAK,0.9968200803678563,7,True,insufficient_sampling,False,2,0,partition_not_confirmed,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.011,0.011,726.1,0,0
+traj_heldout_null_anisotropic,26,WEAK,0.9989603810408468,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.107,0.107,96.4,0,0
+traj_heldout_null_anisotropic,27,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,11,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.073,0.073,74.2,0,0
+traj_heldout_null_anisotropic,28,WEAK,1.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.114,0.114,406.6,0,0
+traj_heldout_null_anisotropic,29,WEAK,0.9939882244028558,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.176,0.176,311.2,0,0
+traj_heldout_null_anisotropic,30,WEAK,1.0,4,False,insufficient_sampling,False,0,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.061,0.061,88.5,0,0
+traj_heldout_null_anisotropic,31,WEAK,0.9998789072623565,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.469,0.469,66.2,0,0
+traj_heldout_null_anisotropic,32,WEAK,1.0,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.063,0.063,118.8,0,0
+traj_heldout_null_anisotropic,33,WEAK,0.9337113476462532,2,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.018,0.018,67.9,0,0
+traj_heldout_null_anisotropic,34,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,20,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.021,0.021,78.4,0,0
+traj_heldout_null_anisotropic,35,WEAK,0.9759977703152299,2,False,no_reproducible_partition,True,0,0,,19,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.009,0.009,79.0,0,0
+traj_heldout_null_anisotropic,36,NOT_CLUSTERABLE,0.9981452933272097,1,False,no_reproducible_partition,True,0,0,,16,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.474,0.474,70.8,0,0
+traj_heldout_null_anisotropic,37,WEAK,0.9958662284676221,3,False,no_reproducible_partition,True,0,0,,11,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.005,0.005,121.1,0,0
+traj_heldout_null_anisotropic,38,WEAK,0.9982684853486183,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,18,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.221,0.221,108.2,0,0
+traj_heldout_null_anisotropic,39,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.121,0.121,68.0,0,0
+traj_heldout_null_anisotropic,40,WEAK,1.0,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.215,0.215,103.1,0,0
+traj_heldout_null_anisotropic,41,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,12,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.128,0.128,598.1,0,0
+traj_heldout_null_anisotropic,42,WEAK,0.9975146133647711,3,False,no_reproducible_partition,True,0,0,,15,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.042,0.042,115.1,0,0
+traj_heldout_null_anisotropic,43,WEAK,0.9971566329748659,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,13,False,,3,3,3,0,MODERATE LOW LOW,MODERATE,0.0,0.0,0.288,0.288,56.7,0,0
+traj_heldout_null_anisotropic,44,WEAK,0.993138673179239,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.09,0.09,336.2,0,0
+traj_heldout_null_anisotropic,45,WEAK,0.9665642006021666,3,False,no_reproducible_partition,True,0,0,,14,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.298,0.298,78.3,0,0
+traj_heldout_null_anisotropic,46,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.154,0.154,61.6,0,0
+traj_heldout_null_anisotropic,47,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,15,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.237,0.237,91.3,0,0
+traj_heldout_null_anisotropic,48,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,38,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.185,0.185,58.7,0,0
+traj_heldout_null_anisotropic,49,WEAK,0.9149987176708261,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.136,0.136,89.1,0,0
+traj_heldout_null_curved,0,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,8,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.009,0.009,75.4,0,0
+traj_heldout_null_curved,1,WEAK,0.994445885143254,4,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.0,0.0,109.7,0,0
+traj_heldout_null_curved,2,WEAK,0.1460189588472076,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.054,0.054,421.7,0,0
+traj_heldout_null_curved,3,WEAK,1.0,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.086,0.086,276.8,0,0
+traj_heldout_null_curved,4,WEAK,1.0,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.078,0.078,265.5,0,0
+traj_heldout_null_curved,5,WEAK,0.9919195778997076,3,False,no_reproducible_partition,True,0,0,,11,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.081,0.081,102.6,0,0
+traj_heldout_null_curved,6,WEAK,0.9962008444849286,3,False,no_reproducible_partition,True,0,0,,9,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.149,0.149,65.7,0,0
+traj_heldout_null_curved,7,WEAK,1.0,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.001,0.001,174.3,0,0
+traj_heldout_null_curved,8,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,18,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.129,0.129,125.0,0,0
+traj_heldout_null_curved,9,WEAK,0.9973593324923848,3,False,no_reproducible_partition,True,0,0,,19,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.081,0.081,77.3,0,0
+traj_heldout_null_curved,10,CLUSTERABLE,0.0011314295384785567,5,True,insufficient_sampling,False,2,0,distinct_states,11,False,,2,2,2,0,HIGH HIGH,HIGH,0.0,0.0,0.001,0.001,664.1,0,0
+traj_heldout_null_curved,11,WEAK,0.998342488061028,3,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.04,0.04,67.3,0,0
+traj_heldout_null_curved,12,WEAK,0.9996983252205367,3,False,no_reproducible_partition,True,0,0,,11,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.147,0.147,80.8,0,0
+traj_heldout_null_curved,13,WEAK,0.9979443029268138,4,True,partition_not_confirmed,True,0,0,,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.038,0.038,472.1,0,0
+traj_heldout_null_curved,14,WEAK,0.9943292114082163,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.178,0.178,536.1,0,0
+traj_heldout_null_curved,15,WEAK,0.9971292974237438,3,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.134,0.134,57.1,0,0
+traj_heldout_null_curved,16,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9,False,,2,2,2,0,HIGH HIGH,HIGH,0.0,0.0,0.018,0.018,897.7,0,0
+traj_heldout_null_curved,17,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,14,False,,4,4,4,0,LOW LOW LOW LOW,LOW,0.0,0.0,0.001,0.001,102.4,0,0
+traj_heldout_null_curved,18,WEAK,1.0,5,False,insufficient_sampling,False,1,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.179,0.179,90.3,0,0
+traj_heldout_null_curved,19,CLUSTERABLE,0.0,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,HIGH HIGH,HIGH,0.0,0.0,0.08,0.08,987.5,0,0
+traj_heldout_null_curved,20,WEAK,0.9991565045770874,4,False,insufficient_sampling,False,1,0,no_reproducible_partition,12,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.072,0.072,139.8,0,0
+traj_heldout_null_curved,21,CLUSTERABLE,0.0,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,HIGH MODERATE,HIGH,0.0,0.0,0.041,0.041,147.7,0,0
+traj_heldout_null_curved,22,WEAK,1.0,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.368,0.368,91.9,0,0
+traj_heldout_null_curved,23,WEAK,0.9933436951574253,4,False,no_reproducible_partition,True,0,0,,16,False,,3,3,3,0,MODERATE LOW LOW,MODERATE,0.0,0.0,0.001,0.001,85.1,0,0
+traj_heldout_null_curved,24,WEAK,0.49703608786583986,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.008,0.008,648.8,0,0
+traj_heldout_null_curved,25,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.345,0.345,74.1,0,0
+traj_heldout_null_curved,26,WEAK,1.0,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,15,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.073,0.073,118.9,0,0
+traj_heldout_null_curved,27,WEAK,0.8429983785882633,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.028,0.028,582.6,0,0
+traj_heldout_null_curved,28,WEAK,1.0,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.163,0.163,99.2,0,0
+traj_heldout_null_curved,29,CLUSTERABLE,5.0027163129851004e-06,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,HIGH MODERATE,HIGH,0.0,0.0,0.242,0.242,122.5,0,0
+traj_heldout_null_curved,30,WEAK,0.9983365362063543,2,False,no_reproducible_partition,True,0,0,,19,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.135,0.135,58.9,0,0
+traj_heldout_null_curved,31,WEAK,0.5148122214349719,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.118,0.118,173.5,0,0
+traj_heldout_null_curved,32,WEAK,0.9985305481971773,3,False,no_reproducible_partition,True,0,0,,12,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.054,0.054,84.9,0,0
+traj_heldout_null_curved,33,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,19,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.007,0.007,94.9,0,0
+traj_heldout_null_curved,34,CLUSTERABLE,0.0,10,False,insufficient_sampling,False,1,0,no_reproducible_partition,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.4,0.4,90.4,0,0
+traj_heldout_null_curved,35,CLUSTERABLE,0.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,HIGH MODERATE,HIGH,0.0,0.0,0.001,0.001,434.6,0,0
+traj_heldout_null_curved,36,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,16,False,,3,3,3,0,MODERATE LOW LOW,MODERATE,0.0,0.0,0.027,0.027,77.6,0,0
+traj_heldout_null_curved,37,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.153,0.153,316.8,0,0
+traj_heldout_null_curved,38,WEAK,1.0,3,False,no_reproducible_partition,True,0,0,,11,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.108,0.108,103.6,0,0
+traj_heldout_null_curved,39,WEAK,1.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,23,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.181,0.181,90.6,0,0
+traj_heldout_null_curved,40,WEAK,1.0,4,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.092,0.092,74.0,0,0
+traj_heldout_null_curved,41,WEAK,0.9980830573517315,2,False,no_reproducible_partition,True,0,0,,18,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.117,0.117,77.0,0,0
+traj_heldout_null_curved,42,WEAK,1.0,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.181,0.181,103.9,0,0
+traj_heldout_null_curved,43,WEAK,1.0,6,False,no_reproducible_partition,True,0,0,,22,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.014,0.014,89.4,0,0
+traj_heldout_null_curved,44,WEAK,0.9926854230508778,9,False,insufficient_sampling,False,1,0,no_reproducible_partition,8,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.331,0.331,87.6,0,0
+traj_heldout_null_curved,45,WEAK,0.9945139340194287,2,False,no_reproducible_partition,True,0,0,,15,False,,4,4,4,0,LOW LOW LOW LOW,LOW,0.0,0.0,0.293,0.293,77.4,0,0
+traj_heldout_null_curved,46,WEAK,0.9893661862342452,3,False,no_reproducible_partition,True,0,0,,14,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.05,0.05,100.4,0,0
+traj_heldout_null_curved,47,CLUSTERABLE,2.3074734470718283e-05,7,True,insufficient_sampling,False,2,0,distinct_states,8,False,,2,2,2,0,HIGH HIGH,HIGH,0.0,0.0,0.055,0.055,1083.5,0,0
+traj_heldout_null_curved,48,WEAK,1.0,3,False,insufficient_sampling,False,1,0,no_reproducible_partition,12,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.236,0.236,70.0,0,0
+traj_heldout_null_curved,49,WEAK,1.0,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.221,0.221,81.0,0,0
+traj_heldout_null_drift_fast,0,NOT_CLUSTERABLE,0.9988682408535223,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,27,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.149,0.149,89.1,0,0
+traj_heldout_null_drift_fast,1,NOT_CLUSTERABLE,0.9987846337191157,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,36,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.001,0.001,99.2,0,0
+traj_heldout_null_drift_fast,2,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,11,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.116,0.116,116.4,0,0
+traj_heldout_null_drift_fast,3,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,21,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.043,0.043,87.3,0,0
+traj_heldout_null_drift_fast,4,NOT_CLUSTERABLE,0.9983137349203592,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,23,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.315,0.315,87.8,0,0
+traj_heldout_null_drift_fast,5,NOT_CLUSTERABLE,0.9924992678699525,1,False,no_reproducible_partition,True,0,0,,27,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.006,0.006,62.5,0,0
+traj_heldout_null_drift_fast,6,NOT_CLUSTERABLE,0.9947248242679586,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,37,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.043,0.043,143.0,0,0
+traj_heldout_null_drift_fast,7,WEAK,0.9850182296652856,2,False,no_reproducible_partition,True,0,0,,13,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.179,0.179,68.8,0,0
+traj_heldout_null_drift_fast,8,NOT_CLUSTERABLE,0.7963998416020822,1,False,no_reproducible_partition,True,0,0,,25,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.114,0.114,77.0,0,0
+traj_heldout_null_drift_fast,9,NOT_CLUSTERABLE,0.9984856332661922,1,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.203,0.203,66.3,0,0
+traj_heldout_null_drift_fast,10,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,32,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.162,0.162,97.6,0,0
+traj_heldout_null_drift_fast,11,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,25,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.46,0.46,69.7,0,0
+traj_heldout_null_drift_fast,12,NOT_CLUSTERABLE,0.9987041543518583,1,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.434,0.434,58.3,0,0
+traj_heldout_null_drift_fast,13,NOT_CLUSTERABLE,0.9995535678985948,1,False,no_reproducible_partition,True,0,0,,20,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.003,0.003,77.1,0,0
+traj_heldout_null_drift_fast,14,NOT_CLUSTERABLE,0.9918478251180958,1,False,no_reproducible_partition,True,0,0,,10,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.138,0.138,74.0,0,0
+traj_heldout_null_drift_fast,15,NOT_CLUSTERABLE,0.9929858179496931,1,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.067,0.067,77.2,0,0
+traj_heldout_null_drift_fast,16,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.43,0.43,56.7,0,0
+traj_heldout_null_drift_fast,17,NOT_CLUSTERABLE,0.9989193804601991,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,34,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.17,0.17,77.8,0,0
+traj_heldout_null_drift_fast,18,NOT_CLUSTERABLE,1.0,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,32,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.025,0.025,74.3,0,0
+traj_heldout_null_drift_fast,19,NOT_CLUSTERABLE,0.999603693527141,1,False,no_reproducible_partition,True,0,0,,29,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.256,0.256,57.1,0,0
+traj_heldout_null_drift_fast,20,NOT_CLUSTERABLE,0.9945076104131714,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,35,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.0,0.0,199.9,0,0
+traj_heldout_null_drift_fast,21,NOT_CLUSTERABLE,0.9446531201828101,1,False,no_reproducible_partition,True,0,0,,17,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.416,0.416,55.2,0,0
+traj_heldout_null_drift_fast,22,NOT_CLUSTERABLE,1.0,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,29,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.198,0.198,68.7,0,0
+traj_heldout_null_drift_fast,23,NOT_CLUSTERABLE,0.9977106388518228,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.061,0.061,71.4,0,0
+traj_heldout_null_drift_fast,24,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,17,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.087,0.087,68.0,0,0
+traj_heldout_null_drift_fast,25,NOT_CLUSTERABLE,1.0,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,43,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.092,0.092,99.2,0,0
+traj_heldout_null_drift_fast,26,NOT_CLUSTERABLE,0.9991716911788968,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,18,False,,4,4,4,0,LOW LOW LOW LOW,LOW,0.0,0.0,0.499,0.499,82.6,0,0
+traj_heldout_null_drift_fast,27,NOT_CLUSTERABLE,0.999646117788351,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.147,0.147,68.6,0,0
+traj_heldout_null_drift_fast,28,NOT_CLUSTERABLE,0.9955782107668748,1,False,no_reproducible_partition,True,0,0,,34,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.364,0.364,88.4,0,0
+traj_heldout_null_drift_fast,29,NOT_CLUSTERABLE,0.9996202107996792,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.136,0.136,81.4,0,0
+traj_heldout_null_drift_fast,30,NOT_CLUSTERABLE,1.0,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,30,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.09,0.09,78.3,0,0
+traj_heldout_null_drift_fast,31,NOT_CLUSTERABLE,0.9940561604866633,1,False,no_reproducible_partition,True,0,0,,38,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.0,0.0,95.2,0,0
+traj_heldout_null_drift_fast,32,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,29,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.058,0.058,79.5,0,0
+traj_heldout_null_drift_fast,33,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,34,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.38,0.38,75.8,0,0
+traj_heldout_null_drift_fast,34,NOT_CLUSTERABLE,0.9945348825509183,1,False,no_reproducible_partition,True,0,0,,31,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.108,0.108,80.4,0,0
+traj_heldout_null_drift_fast,35,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.178,0.178,78.4,0,0
+traj_heldout_null_drift_fast,36,NOT_CLUSTERABLE,0.9978536269637426,1,False,no_reproducible_partition,True,0,0,,31,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.039,0.039,92.9,0,0
+traj_heldout_null_drift_fast,37,NOT_CLUSTERABLE,0.9929840592445945,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.191,0.191,74.0,0,0
+traj_heldout_null_drift_fast,38,NOT_CLUSTERABLE,0.9996362500104632,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,31,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.181,0.181,86.2,0,0
+traj_heldout_null_drift_fast,39,WEAK,0.9986632007335389,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,26,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.025,0.025,100.5,0,0
+traj_heldout_null_drift_fast,40,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,36,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.586,0.586,77.6,0,0
+traj_heldout_null_drift_fast,41,NOT_CLUSTERABLE,0.9686327783518975,1,False,no_reproducible_partition,True,0,0,,29,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.177,0.177,64.8,0,0
+traj_heldout_null_drift_fast,42,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,35,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.354,0.354,62.2,0,0
+traj_heldout_null_drift_fast,43,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,21,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.165,0.165,73.9,0,0
+traj_heldout_null_drift_fast,44,NOT_CLUSTERABLE,0.998784540384072,1,False,no_reproducible_partition,True,0,0,,37,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.017,0.017,49.9,0,0
+traj_heldout_null_drift_fast,45,NOT_CLUSTERABLE,0.9988659774213965,1,False,insufficient_sampling,False,1,0,no_reproducible_partition,39,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.455,0.455,77.6,0,0
+traj_heldout_null_drift_fast,46,NOT_CLUSTERABLE,0.9980736199524692,1,False,no_reproducible_partition,True,0,0,,29,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.041,0.041,93.3,0,0
+traj_heldout_null_drift_fast,47,NOT_CLUSTERABLE,0.9987446025578876,1,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.013,0.013,103.7,0,0
+traj_heldout_null_drift_fast,48,NOT_CLUSTERABLE,0.9950542159732011,1,False,no_reproducible_partition,True,0,0,,22,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.056,0.056,58.1,0,0
+traj_heldout_null_drift_fast,49,NOT_CLUSTERABLE,0.9980402597274931,1,False,no_reproducible_partition,True,0,0,,18,False,,4,4,4,0,LOW LOW LOW LOW,LOW,0.0,0.0,0.322,0.322,69.0,0,0
+traj_heldout_null_drift_slow,0,WEAK,0.9954979589280258,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.035,0.035,401.7,0,0
+traj_heldout_null_drift_slow,1,WEAK,1.0,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,9,False,,3,3,3,0,MODERATE LOW LOW,MODERATE,0.0,0.0,0.0585,0.0585,318.5,0,0
+traj_heldout_null_drift_slow,2,WEAK,0.9914105546764458,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0035,0.0035,436.3,0,0
+traj_heldout_null_drift_slow,3,WEAK,0.9975503631233104,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.2305,0.2305,335.5,0,0
+traj_heldout_null_drift_slow,4,WEAK,0.998328785715785,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.0035,0.0035,385.1,0,0
+traj_heldout_null_drift_slow,5,WEAK,0.9603252198851874,9,False,insufficient_sampling,False,1,0,no_reproducible_partition,15,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.1415,0.1415,403.9,0,0
+traj_heldout_null_drift_slow,6,WEAK,0.8270301003183096,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.012,0.012,312.3,0,0
+traj_heldout_null_drift_slow,7,CLUSTERABLE,0.0077209817560949245,9,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.324,0.324,368.4,0,0
+traj_heldout_null_drift_slow,8,WEAK,1.0,4,False,insufficient_sampling,False,3,0,no_reproducible_partition,22,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.1325,0.1325,375.1,0,0
+traj_heldout_null_drift_slow,9,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,19,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.022,0.022,411.5,0,0
+traj_heldout_null_drift_slow,10,WEAK,0.9826282570012829,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,1803.1,0,0
+traj_heldout_null_drift_slow,11,WEAK,0.997349604251077,8,False,insufficient_sampling,False,3,0,no_reproducible_partition,23,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.0055,0.0055,400.7,0,0
+traj_heldout_null_drift_slow,12,WEAK,0.99994452817773,8,False,insufficient_sampling,False,4,0,no_reproducible_partition,17,False,,4,4,4,0,MODERATE MODERATE LOW MODERATE,MODERATE,0.0,0.0,0.1545,0.1545,366.5,0,0
+traj_heldout_null_drift_slow,13,WEAK,1.0,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.007,0.007,1729.7,0,0
+traj_heldout_null_drift_slow,14,WEAK,0.9974231358919582,10,False,insufficient_sampling,False,4,0,no_reproducible_partition,14,False,,4,4,4,0,MODERATE MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.0295,0.0295,364.2,0,0
+traj_heldout_null_drift_slow,15,WEAK,1.0,9,False,insufficient_sampling,False,5,0,no_reproducible_partition,21,False,,5,5,5,0,LOW LOW LOW LOW LOW,LOW,0.0,0.0,0.207,0.207,358.0,0,0
+traj_heldout_null_drift_slow,16,WEAK,1.0,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.019,0.019,339.7,0,0
+traj_heldout_null_drift_slow,17,WEAK,0.9933320076612672,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,10,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.004,0.004,356.0,0,0
+traj_heldout_null_drift_slow,18,WEAK,0.9998202822283945,10,False,insufficient_sampling,False,4,0,no_reproducible_partition,12,False,,4,4,4,0,MODERATE LOW LOW LOW,MODERATE,0.0,0.0,0.1005,0.1005,366.1,0,0
+traj_heldout_null_drift_slow,19,WEAK,1.0,9,False,insufficient_sampling,False,5,0,no_reproducible_partition,13,False,,5,5,5,0,MODERATE MODERATE MODERATE LOW LOW,MODERATE,0.0,0.0,0.0045,0.0045,343.7,0,0
+traj_heldout_null_drift_slow,20,WEAK,0.9951513224044128,10,False,insufficient_sampling,False,1,0,no_reproducible_partition,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.1105,0.1105,319.8,0,0
+traj_heldout_null_drift_slow,21,WEAK,1.0,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.001,0.001,1037.5,0,0
+traj_heldout_null_drift_slow,22,WEAK,0.9981887493739671,5,False,insufficient_sampling,False,3,0,no_reproducible_partition,12,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.0,0.0,427.4,0,0
+traj_heldout_null_drift_slow,23,WEAK,1.0,7,False,insufficient_sampling,False,3,0,no_reproducible_partition,12,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.013,0.013,378.5,0,0
+traj_heldout_null_drift_slow,24,WEAK,1.0,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.0005,0.0005,412.8,0,0
+traj_heldout_null_drift_slow,25,WEAK,1.0,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.1815,0.1815,458.3,0,0
+traj_heldout_null_drift_slow,26,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,13,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,389.8,0,0
+traj_heldout_null_drift_slow,27,WEAK,0.99540014296009,4,False,no_reproducible_partition,True,0,0,,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.1535,0.1535,355.6,0,0
+traj_heldout_null_drift_slow,28,WEAK,0.9993576899192442,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.387,0.387,460.4,0,0
+traj_heldout_null_drift_slow,29,WEAK,1.0,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,20,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.002,0.002,375.5,0,0
+traj_heldout_null_drift_slow,30,WEAK,1.0,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,19,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.001,0.001,467.5,0,0
+traj_heldout_null_drift_slow,31,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,15,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.105,0.105,409.9,0,0
+traj_heldout_null_drift_slow,32,WEAK,0.9944410357782468,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,26,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.0235,0.0235,406.7,0,0
+traj_heldout_null_drift_slow,33,WEAK,1.0,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,18,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,936.0,0,0
+traj_heldout_null_drift_slow,34,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,8,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.087,0.087,355.1,0,0
+traj_heldout_null_drift_slow,35,WEAK,1.0,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.1125,0.1125,637.7,0,0
+traj_heldout_null_drift_slow,36,WEAK,1.0,6,False,insufficient_sampling,False,3,0,no_reproducible_partition,12,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.0105,0.0105,382.6,0,0
+traj_heldout_null_drift_slow,37,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,26,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.1225,0.1225,401.0,0,0
+traj_heldout_null_drift_slow,38,WEAK,0.9949084292798871,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.168,0.168,331.1,0,0
+traj_heldout_null_drift_slow,39,WEAK,0.9842297752771704,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.001,0.001,440.1,0,0
+traj_heldout_null_drift_slow,40,WEAK,1.0,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,26,False,,3,3,3,0,LOW LOW MODERATE,MODERATE,0.0,0.0,0.0,0.0,373.8,0,0
+traj_heldout_null_drift_slow,41,WEAK,1.0,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.014,0.014,375.4,0,0
+traj_heldout_null_drift_slow,42,WEAK,0.9949201514218468,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,14,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.0,0.0,385.5,0,0
+traj_heldout_null_drift_slow,43,WEAK,0.995394465443278,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,20,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.027,0.027,382.1,0,0
+traj_heldout_null_drift_slow,44,WEAK,0.9991376701165318,10,False,no_reproducible_partition,True,0,0,,9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.445,0.445,311.1,0,0
+traj_heldout_null_drift_slow,45,WEAK,1.0,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,10,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.0655,0.0655,367.8,0,0
+traj_heldout_null_drift_slow,46,WEAK,1.0,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.001,0.001,494.8,0,0
+traj_heldout_null_drift_slow,47,WEAK,0.9953878697231465,9,False,insufficient_sampling,False,1,0,no_reproducible_partition,8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.382,0.382,350.8,0,0
+traj_heldout_null_drift_slow,48,WEAK,0.9966574766839968,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.002,0.002,345.7,0,0
+traj_heldout_null_drift_slow,49,WEAK,0.12102828020687673,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,11,False,,3,3,3,0,MODERATE MODERATE MODERATE,MODERATE,0.0,0.0,0.011,0.011,440.6,0,0
+traj_heldout_pos_markov3,0,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9972438171483176,0.9972438171483176,0.002,0.002,1024.0,0,0
+traj_heldout_pos_markov3,1,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,24,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9905783902676667,0.9905783902676667,0.006,0.006,2044.2,0,0
+traj_heldout_pos_markov3,2,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,1,0,distinct_states,25,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,657.0,0,0
+traj_heldout_pos_markov3,3,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,41,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9829001372131293,0.9829001372131293,0.008666666666666666,0.008666666666666666,1263.8,0,0
+traj_heldout_pos_markov3,4,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9899100456600879,0.9899100456600879,0.007333333333333333,0.007333333333333333,1270.2,0,0
+traj_heldout_pos_markov3,5,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,0.4562516043319011,0.8283681485966197,0.0,0.076,3946.2,1,0
+traj_heldout_pos_markov3,6,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.8749668545450339,0.8749668545450339,0.08133333333333333,0.08133333333333333,2492.9,0,0
+traj_heldout_pos_markov3,7,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,47,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9988916721586837,0.9988916721586837,0.0006666666666666666,0.0006666666666666666,1118.0,0,0
+traj_heldout_pos_markov3,8,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9721581786155538,0.9721581786155538,0.014,0.014,679.4,0,0
+traj_heldout_pos_markov3,9,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,33,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9400719878333532,0.9400719878333532,0.03933333333333333,0.03933333333333333,418.7,0,0
+traj_heldout_pos_markov3,10,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,32,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,655.3,0,0
+traj_heldout_pos_markov3,11,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,49,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.6298014437111757,0.6298014437111757,0.24533333333333332,0.24533333333333332,1476.2,0,0
+traj_heldout_pos_markov3,12,CLUSTERABLE,0.0,3,True,distinct_states,True,0,0,,24,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9930024804066792,0.9930024804066792,0.004666666666666667,0.004666666666666667,733.3,0,0
+traj_heldout_pos_markov3,13,CLUSTERABLE,0.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,48,False,,2,2,2,0,MODERATE HIGH,HIGH,0.650543825211466,0.650543825211466,0.052,0.052,2575.3,0,0
+traj_heldout_pos_markov3,14,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9930792217913931,0.9930792217913931,0.005333333333333333,0.005333333333333333,1327.5,0,0
+traj_heldout_pos_markov3,15,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,24,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9987519424597878,0.9987519424597878,0.0013333333333333333,0.0013333333333333333,1255.2,0,0
+traj_heldout_pos_markov3,16,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,44,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9788936503755639,0.9788936503755639,0.012,0.012,2164.1,0,0
+traj_heldout_pos_markov3,17,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,25,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9977979291316258,0.9977979291316258,0.0,0.0,905.3,0,0
+traj_heldout_pos_markov3,18,CLUSTERABLE,0.0,3,True,distinct_states,True,0,0,,22,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9273354982081762,0.9273354982081762,0.043333333333333335,0.043333333333333335,1320.3,0,0
+traj_heldout_pos_markov3,19,CLUSTERABLE,0.00033188568847086763,3,True,distinct_states,True,0,0,,23,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9801631180834166,0.9801631180834166,0.014,0.014,1414.6,0,0
+traj_heldout_pos_markov3,20,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9979175123191459,0.9979175123191459,0.0013333333333333333,0.0013333333333333333,1268.6,0,0
+traj_heldout_pos_markov3,21,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,1,0,distinct_states,22,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9926975046349619,0.9926975046349619,0.004,0.004,724.0,0,0
+traj_heldout_pos_markov3,22,CLUSTERABLE,0.0,3,True,distinct_states,True,0,0,,21,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.8647273473940861,0.8647273473940861,0.08533333333333333,0.08533333333333333,1107.7,0,0
+traj_heldout_pos_markov3,23,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,1,0,distinct_states,16,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9947640871135375,0.9947640871135375,0.0033333333333333335,0.0033333333333333335,1560.0,0,0
+traj_heldout_pos_markov3,24,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,41,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,947.2,0,0
+traj_heldout_pos_markov3,25,CLUSTERABLE,8.161533553319167e-06,3,True,insufficient_sampling,False,2,0,distinct_states,28,False,,2,2,2,0,HIGH HIGH,HIGH,0.4660451421767222,0.4660451421767222,0.0,0.0,3762.7,0,0
+traj_heldout_pos_markov3,26,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,0.39100954916364405,0.7355977319914818,0.0,0.15333333333333332,3730.1,1,0
+traj_heldout_pos_markov3,27,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9968095357049158,0.9968095357049158,0.0026666666666666666,0.0026666666666666666,812.6,0,0
+traj_heldout_pos_markov3,28,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,580.8,0,0
+traj_heldout_pos_markov3,29,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,21,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9846064369957224,0.9846064369957224,0.01,0.01,558.4,0,0
+traj_heldout_pos_markov3,30,CLUSTERABLE,0.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,30,False,,2,2,2,0,HIGH HIGH,HIGH,0.5012842447156048,0.5012842447156048,0.0033333333333333335,0.0033333333333333335,3436.8,0,0
+traj_heldout_pos_markov3,31,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9369178044902026,0.9369178044902026,0.020666666666666667,0.020666666666666667,1142.4,0,0
+traj_heldout_pos_markov3,32,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,45,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,568.7,0,0
+traj_heldout_pos_markov3,33,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,0.6656605345492146,0.9221264196380001,0.016666666666666666,0.044,3080.8,1,0
+traj_heldout_pos_markov3,34,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,29,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9976457585179767,0.9976457585179767,0.0033333333333333335,0.0033333333333333335,1287.9,0,0
+traj_heldout_pos_markov3,35,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,908.0,0,0
+traj_heldout_pos_markov3,36,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,38,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9889464517075812,0.9889464517075812,0.008,0.008,1190.7,0,0
+traj_heldout_pos_markov3,37,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,39,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9673788603590701,0.9673788603590701,0.04066666666666666,0.04066666666666666,2365.1,0,0
+traj_heldout_pos_markov3,38,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,1,0,distinct_states,29,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,0.7133229115949157,0.9272210078166875,0.046,0.04933333333333333,1209.9,1,0
+traj_heldout_pos_markov3,39,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,1,0,distinct_states,26,False,,2,2,3,0,HIGH HIGH HIGH,HIGH,0.6621909886963585,0.9355561265986533,0.03,0.048,1441.7,1,0
+traj_heldout_pos_markov3,40,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,30,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1086.9,0,0
+traj_heldout_pos_markov3,41,CLUSTERABLE,0.0,3,False,insufficient_sampling,False,3,0,no_reproducible_partition,30,False,,3,3,3,0,HIGH HIGH MODERATE,HIGH,0.9187477533475659,0.9187477533475659,0.059333333333333335,0.059333333333333335,1258.5,0,0
+traj_heldout_pos_markov3,42,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,27,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1109.6,0,0
+traj_heldout_pos_markov3,43,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,1,0,distinct_states,16,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9239727773473667,0.9239727773473667,0.030666666666666665,0.030666666666666665,1286.3,0,0
+traj_heldout_pos_markov3,44,CLUSTERABLE,0.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,34,False,,2,2,2,0,MODERATE HIGH,HIGH,0.5961621252413226,0.5961621252413226,0.0,0.0,1607.1,0,0
+traj_heldout_pos_markov3,45,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,1277.6,0,0
+traj_heldout_pos_markov3,46,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,34,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.997521242237917,0.997521242237917,0.0013333333333333333,0.0013333333333333333,1676.4,0,0
+traj_heldout_pos_markov3,47,CLUSTERABLE,0.0,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE HIGH,HIGH,0.5583522957219832,0.5583522957219832,0.12933333333333333,0.12933333333333333,276.3,0,0
+traj_heldout_pos_markov3,48,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,22,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.9915869110638293,0.9915869110638293,0.007333333333333333,0.007333333333333333,1774.4,0,0
+traj_heldout_pos_markov3,49,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,3,0,distinct_states,50,False,,3,3,3,0,HIGH HIGH HIGH,HIGH,0.987641103915578,0.987641103915578,0.008666666666666666,0.008666666666666666,1415.0,0,0
+traj_heldout_pos_markov_close,0,WEAK,0.9999066305608598,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE LOW,MODERATE,0.003807770230117434,0.003807770230117434,0.301,0.301,68.8,0,0
+traj_heldout_pos_markov_close,1,WEAK,0.9345411042821159,2,False,no_reproducible_partition,True,0,0,,20,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.50019337856995,0.50019337856995,0.273,0.273,108.0,0,0
+traj_heldout_pos_markov_close,2,WEAK,0.992767787085254,2,False,no_reproducible_partition,True,0,0,,35,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.38458502470254,0.38458502470254,0.36,0.36,162.8,0,0
+traj_heldout_pos_markov_close,3,WEAK,0.9939903955267886,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.4177841354532656,0.4177841354532656,0.346,0.346,83.5,0,0
+traj_heldout_pos_markov_close,4,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,47,False,,2,2,2,0,LOW LOW,LOW,0.18462874481969724,0.18462874481969724,0.482,0.482,89.3,0,0
+traj_heldout_pos_markov_close,5,WEAK,0.9930661496089095,2,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,MODERATE LOW,MODERATE,0.01892813365638923,0.01892813365638923,0.045,0.045,104.9,0,0
+traj_heldout_pos_markov_close,6,WEAK,0.9986688683005098,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6075986549639746,0.6075986549639746,0.173,0.173,122.6,0,0
+traj_heldout_pos_markov_close,7,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,19,False,,2,2,2,0,LOW LOW,LOW,0.08850940618576539,0.08850940618576539,0.033,0.033,65.5,0,0
+traj_heldout_pos_markov_close,8,WEAK,0.9992901838973481,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,43,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6503791830342952,0.6503791830342952,0.158,0.158,478.9,0,0
+traj_heldout_pos_markov_close,9,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,LOW LOW,LOW,0.2025060611260247,0.2025060611260247,0.525,0.525,91.7,0,0
+traj_heldout_pos_markov_close,10,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,44,False,,2,2,2,0,LOW MODERATE,MODERATE,0.020101992537176133,0.020101992537176133,0.061,0.061,91.2,0,0
+traj_heldout_pos_markov_close,11,WEAK,0.9992797384651678,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,31,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.48744953635167926,0.48744953635167926,0.28,0.28,188.2,0,0
+traj_heldout_pos_markov_close,12,WEAK,0.9952569604536348,2,True,partition_not_confirmed,True,0,0,,22,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.8242092537759714,0.8242092537759714,0.092,0.092,587.8,0,0
+traj_heldout_pos_markov_close,13,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,36,False,,2,2,2,0,LOW LOW,LOW,0.13083032550261725,0.13083032550261725,0.616,0.616,78.8,0,0
+traj_heldout_pos_markov_close,14,WEAK,0.9937676068854882,2,False,no_reproducible_partition,True,0,0,,43,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.003567941447385791,0.003567941447385791,0.029,0.029,165.7,0,0
+traj_heldout_pos_markov_close,15,WEAK,0.986031657044901,2,False,no_reproducible_partition,True,0,0,,28,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5457181732621782,0.5457181732621782,0.261,0.261,115.7,0,0
+traj_heldout_pos_markov_close,16,WEAK,0.9952041612509844,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,35,False,,2,2,2,0,MODERATE LOW,MODERATE,0.3522418787320904,0.3522418787320904,0.397,0.397,79.6,0,0
+traj_heldout_pos_markov_close,17,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,32,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5440141528556212,0.5440141528556212,0.167,0.167,108.7,0,0
+traj_heldout_pos_markov_close,18,WEAK,0.9977065516103258,2,False,no_reproducible_partition,True,0,0,,35,False,,2,2,2,0,LOW LOW,LOW,0.1526743841447209,0.1526743841447209,0.447,0.447,99.1,0,0
+traj_heldout_pos_markov_close,19,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,12,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.37145257983837304,0.37145257983837304,0.37,0.37,101.6,0,0
+traj_heldout_pos_markov_close,20,WEAK,0.9972498359183316,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,46,False,,2,2,2,0,MODERATE LOW,MODERATE,0.4098355842141035,0.4098355842141035,0.375,0.375,92.7,0,0
+traj_heldout_pos_markov_close,21,WEAK,0.9935754296389161,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,48,False,,2,2,2,0,LOW LOW,LOW,0.22439818498319064,0.22439818498319064,0.493,0.493,96.9,0,0
+traj_heldout_pos_markov_close,22,WEAK,0.990650131874141,2,False,no_reproducible_partition,True,0,0,,25,False,,2,2,2,0,MODERATE LOW,MODERATE,0.41513779238249576,0.41513779238249576,0.339,0.339,83.8,0,0
+traj_heldout_pos_markov_close,23,WEAK,1.0,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,30,False,,2,2,2,0,MODERATE LOW,MODERATE,0.3598106848453055,0.3598106848453055,0.312,0.312,94.8,0,0
+traj_heldout_pos_markov_close,24,WEAK,0.9999065963489747,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,33,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.44810015056977814,0.44810015056977814,0.305,0.305,146.1,0,0
+traj_heldout_pos_markov_close,25,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,26,False,,2,2,2,0,LOW LOW,LOW,0.06200440124763888,0.06200440124763888,0.028,0.028,98.4,0,0
+traj_heldout_pos_markov_close,26,WEAK,0.9932044444016891,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.48968089673834714,0.48968089673834714,0.283,0.283,94.5,0,0
+traj_heldout_pos_markov_close,27,WEAK,0.9956066979864026,2,False,no_reproducible_partition,True,0,0,,50,False,,33,33,33,0,LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW MODERATE LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW,MODERATE,0.043245629980487206,0.043245629980487206,0.426,0.426,66.7,0,0
+traj_heldout_pos_markov_close,28,WEAK,1.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,44,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5760545767936789,0.5760545767936789,0.219,0.219,115.6,0,0
+traj_heldout_pos_markov_close,29,WEAK,0.9961382643712214,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,24,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.8192410330867758,0.8192410330867758,0.091,0.091,381.6,0,0
+traj_heldout_pos_markov_close,30,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,38,False,,2,2,2,0,LOW LOW,LOW,-0.003704236188901589,-0.003704236188901589,0.205,0.205,85.3,0,0
+traj_heldout_pos_markov_close,31,WEAK,0.9535378762787388,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,45,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.70077255970242,0.70077255970242,0.129,0.129,355.3,0,0
+traj_heldout_pos_markov_close,32,WEAK,0.9958522339127662,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,23,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.4074925768708393,0.4074925768708393,0.333,0.333,101.6,0,0
+traj_heldout_pos_markov_close,33,WEAK,0.9930160538124657,2,False,no_reproducible_partition,True,0,0,,27,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.10475919628601037,0.10475919628601037,0.655,0.655,100.5,0,0
+traj_heldout_pos_markov_close,34,WEAK,0.9922286493299903,3,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,MODERATE LOW,MODERATE,0.08200598723818808,0.08200598723818808,0.155,0.155,91.5,0,0
+traj_heldout_pos_markov_close,35,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,MODERATE LOW,MODERATE,0.4727695435774756,0.4727695435774756,0.27,0.27,73.3,0,0
+traj_heldout_pos_markov_close,36,WEAK,0.9987894701980449,2,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,MODERATE LOW,MODERATE,0.4097392076246655,0.4097392076246655,0.32,0.32,111.2,0,0
+traj_heldout_pos_markov_close,37,WEAK,0.966083733800638,2,False,no_reproducible_partition,True,0,0,,12,False,,2,2,2,0,MODERATE LOW,MODERATE,0.19609322455243425,0.19609322455243425,0.238,0.238,73.7,0,0
+traj_heldout_pos_markov_close,38,WEAK,0.9963538721246598,2,False,no_reproducible_partition,True,0,0,,44,False,,2,2,2,0,MODERATE LOW,MODERATE,0.17023140660220887,0.17023140660220887,0.047,0.047,99.9,0,0
+traj_heldout_pos_markov_close,39,WEAK,1.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6088132336301069,0.6088132336301069,0.172,0.172,231.6,0,0
+traj_heldout_pos_markov_close,40,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,24,False,,2,2,2,0,LOW LOW,LOW,0.29955682344904394,0.29955682344904394,0.44,0.44,92.1,0,0
+traj_heldout_pos_markov_close,41,WEAK,0.998497214305815,2,False,no_reproducible_partition,True,0,0,,21,False,,2,2,2,0,LOW LOW,LOW,0.0008723465708405189,0.0008723465708405189,0.132,0.132,79.8,0,0
+traj_heldout_pos_markov_close,42,WEAK,0.9963666073376007,2,False,no_reproducible_partition,True,0,0,,37,False,,2,2,2,0,LOW LOW,LOW,0.023394965869741578,0.023394965869741578,0.063,0.063,64.5,0,0
+traj_heldout_pos_markov_close,43,WEAK,0.9868827564775811,2,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,LOW LOW,LOW,0.1673617025411588,0.1673617025411588,0.487,0.487,75.8,0,0
+traj_heldout_pos_markov_close,44,WEAK,0.9996352407326167,2,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,LOW LOW,LOW,0.15955234299470195,0.15955234299470195,0.574,0.574,80.3,0,0
+traj_heldout_pos_markov_close,45,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,LOW LOW,LOW,-0.007997868926545982,-0.007997868926545982,0.053,0.053,83.0,0,0
+traj_heldout_pos_markov_close,46,WEAK,0.9928002990750197,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,25,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.49244558318672305,0.49244558318672305,0.264,0.264,96.4,0,0
+traj_heldout_pos_markov_close,47,WEAK,1.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6345022618679164,0.6345022618679164,0.219,0.219,129.6,0,0
+traj_heldout_pos_markov_close,48,WEAK,0.9967448065707978,2,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,MODERATE LOW,MODERATE,0.10880716986861064,0.10880716986861064,0.564,0.564,72.2,0,0
+traj_heldout_pos_markov_close,49,WEAK,0.9606436120504994,2,False,no_reproducible_partition,True,0,0,,34,False,,2,2,2,0,MODERATE LOW,MODERATE,0.26695973887893054,0.26695973887893054,0.453,0.453,78.5,0,0
+traj_heldout_pos_markov_intermediate,0,WEAK,0.9905626877335988,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6272974069919584,0.6272974069919584,0.155,0.155,405.2,0,0
+traj_heldout_pos_markov_intermediate,1,CLUSTERABLE,4.4707008401756454e-05,2,False,no_reproducible_partition,True,0,0,,36,False,,2,2,2,0,LOW LOW,LOW,0.24310827228913967,0.24310827228913967,0.45,0.45,87.1,0,0
+traj_heldout_pos_markov_intermediate,2,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,23,False,,2,2,2,0,HIGH HIGH,HIGH,0.8445975490831726,0.8445975490831726,0.054,0.054,624.0,0,0
+traj_heldout_pos_markov_intermediate,3,WEAK,0.8815664195527545,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5833756899626032,0.5833756899626032,0.235,0.235,194.0,0,0
+traj_heldout_pos_markov_intermediate,4,WEAK,0.9968201257770367,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,41,False,,2,2,2,0,LOW LOW,LOW,0.39074743573467974,0.39074743573467974,0.36,0.36,85.4,0,0
+traj_heldout_pos_markov_intermediate,5,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,42,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.47246427352618936,0.47246427352618936,0.28,0.28,144.3,0,0
+traj_heldout_pos_markov_intermediate,6,WEAK,1.0,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5738428199663095,0.5738428199663095,0.231,0.231,94.1,0,0
+traj_heldout_pos_markov_intermediate,7,WEAK,0.9997628560745946,2,False,no_reproducible_partition,True,0,0,,21,False,,2,2,2,0,MODERATE LOW,MODERATE,0.48412732490377186,0.48412732490377186,0.272,0.272,88.0,0,0
+traj_heldout_pos_markov_intermediate,8,WEAK,0.993352249953343,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,40,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.7383846679431527,0.7383846679431527,0.108,0.108,783.3,0,0
+traj_heldout_pos_markov_intermediate,9,WEAK,0.9061882382815201,2,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.3319785625674663,0.3319785625674663,0.419,0.419,156.4,0,0
+traj_heldout_pos_markov_intermediate,10,WEAK,0.9940893540356036,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,46,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.3450965628356137,0.3450965628356137,0.425,0.425,96.5,0,0
+traj_heldout_pos_markov_intermediate,11,CLUSTERABLE,0.0002961073925468183,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,25,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.4836355730331874,0.4836355730331874,0.246,0.246,158.5,0,0
+traj_heldout_pos_markov_intermediate,12,CLUSTERABLE,0.0,2,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,HIGH MODERATE,HIGH,0.2515765709699547,0.2515765709699547,0.501,0.501,94.9,0,0
+traj_heldout_pos_markov_intermediate,13,WEAK,0.9505030090515454,2,True,insufficient_sampling,False,1,0,partition_not_confirmed,31,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.631105083428667,0.631105083428667,0.158,0.158,360.7,0,0
+traj_heldout_pos_markov_intermediate,14,WEAK,0.9971284266209054,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.29162077002468234,0.29162077002468234,0.455,0.455,318.3,0,0
+traj_heldout_pos_markov_intermediate,15,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,18,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.4345872536405514,0.4345872536405514,0.315,0.315,127.6,0,0
+traj_heldout_pos_markov_intermediate,16,CLUSTERABLE,2.2873894059971533e-06,2,False,no_reproducible_partition,True,0,0,,28,False,,2,2,2,0,HIGH MODERATE,HIGH,0.6555768979064526,0.6555768979064526,0.169,0.169,116.9,0,0
+traj_heldout_pos_markov_intermediate,17,WEAK,1.0,2,True,partition_not_confirmed,True,0,0,,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6265201593761978,0.6265201593761978,0.17,0.17,460.5,0,0
+traj_heldout_pos_markov_intermediate,18,CLUSTERABLE,3.1495710582918335e-06,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,42,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.4131617382207496,0.4131617382207496,0.345,0.345,98.4,0,0
+traj_heldout_pos_markov_intermediate,19,CLUSTERABLE,0.0,2,False,no_reproducible_partition,True,0,0,,18,False,,2,2,2,0,MODERATE LOW,MODERATE,0.20126266695879722,0.20126266695879722,0.546,0.546,96.4,0,0
+traj_heldout_pos_markov_intermediate,20,CLUSTERABLE,0.0,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,39,False,,2,2,2,0,HIGH MODERATE,HIGH,0.22879260624396533,0.22879260624396533,0.52,0.52,130.7,0,0
+traj_heldout_pos_markov_intermediate,21,WEAK,0.9877429489022445,2,True,partition_not_confirmed,True,0,0,,43,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5414491141535588,0.5414491141535588,0.192,0.192,491.5,0,0
+traj_heldout_pos_markov_intermediate,22,WEAK,0.9971206675916482,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,38,False,,2,2,2,0,MODERATE LOW,MODERATE,0.5597199473381768,0.5597199473381768,0.24,0.24,101.0,0,0
+traj_heldout_pos_markov_intermediate,23,CLUSTERABLE,0.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,29,False,,2,2,2,0,HIGH LOW,HIGH,0.5690836627793524,0.5690836627793524,0.266,0.266,93.6,0,0
+traj_heldout_pos_markov_intermediate,24,WEAK,0.856995853421511,2,False,no_reproducible_partition,True,0,0,,38,False,,2,2,2,0,MODERATE LOW,MODERATE,0.4029423822650826,0.4029423822650826,0.351,0.351,97.5,0,0
+traj_heldout_pos_markov_intermediate,25,WEAK,0.9982686922702749,2,False,no_reproducible_partition,True,0,0,,27,False,,2,2,2,0,MODERATE LOW,MODERATE,0.3742397472447783,0.3742397472447783,0.351,0.351,100.3,0,0
+traj_heldout_pos_markov_intermediate,26,WEAK,0.9957779021342831,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.8041249605860998,0.8041249605860998,0.05,0.05,370.9,0,0
+traj_heldout_pos_markov_intermediate,27,CLUSTERABLE,3.013020479325501e-05,2,False,no_reproducible_partition,True,0,0,,22,False,,2,2,2,0,HIGH MODERATE,HIGH,0.3261215887920116,0.3261215887920116,0.42,0.42,134.7,0,0
+traj_heldout_pos_markov_intermediate,28,CLUSTERABLE,0.0,2,False,no_reproducible_partition,True,0,0,,42,False,,2,2,2,0,MODERATE LOW,MODERATE,0.23253862147325105,0.23253862147325105,0.573,0.573,91.7,0,0
+traj_heldout_pos_markov_intermediate,29,CLUSTERABLE,0.00033583692206828886,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,23,False,,2,2,2,0,HIGH HIGH,HIGH,0.6480331994056489,0.6480331994056489,0.153,0.153,631.8,0,0
+traj_heldout_pos_markov_intermediate,30,WEAK,0.9912694626696852,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,40,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.8047661081938672,0.8047661081938672,0.092,0.092,662.0,0,0
+traj_heldout_pos_markov_intermediate,31,WEAK,0.9917906703357402,2,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.3641221071332968,0.3641221071332968,0.385,0.385,134.0,0,0
+traj_heldout_pos_markov_intermediate,32,WEAK,0.9901146678270862,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,43,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6136110029922739,0.6136110029922739,0.172,0.172,421.1,0,0
+traj_heldout_pos_markov_intermediate,33,WEAK,0.6964424119068288,2,True,partition_not_confirmed,True,0,0,,20,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.5837783696055003,0.5837783696055003,0.209,0.209,343.7,0,0
+traj_heldout_pos_markov_intermediate,34,WEAK,1.0,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.45545099877755174,0.45545099877755174,0.316,0.316,104.1,0,0
+traj_heldout_pos_markov_intermediate,35,WEAK,0.1701322161851817,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.2078638733419502,0.2078638733419502,0.535,0.535,89.2,0,0
+traj_heldout_pos_markov_intermediate,36,WEAK,0.9976895287972297,2,False,no_reproducible_partition,True,0,0,,23,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.3092427516849769,0.3092427516849769,0.384,0.384,124.4,0,0
+traj_heldout_pos_markov_intermediate,37,WEAK,0.997919549911312,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6474934368034493,0.6474934368034493,0.148,0.148,273.6,0,0
+traj_heldout_pos_markov_intermediate,38,WEAK,0.9989022775139597,2,False,no_reproducible_partition,True,0,0,,40,False,,2,2,2,0,MODERATE LOW,MODERATE,0.488515008475216,0.488515008475216,0.166,0.166,68.3,0,0
+traj_heldout_pos_markov_intermediate,39,WEAK,0.9868144247228086,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.794508429595392,0.794508429595392,0.072,0.072,442.4,0,0
+traj_heldout_pos_markov_intermediate,40,CLUSTERABLE,0.002170324489063735,2,False,no_reproducible_partition,True,0,0,,12,False,,2,2,2,0,HIGH MODERATE,HIGH,0.2547991899703774,0.2547991899703774,0.483,0.483,106.8,0,0
+traj_heldout_pos_markov_intermediate,41,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,1,0,distinct_states,17,False,,2,2,2,0,HIGH HIGH,HIGH,0.647414725769707,0.647414725769707,0.176,0.176,477.0,0,0
+traj_heldout_pos_markov_intermediate,42,CLUSTERABLE,0.015231025289184075,2,True,distinct_states,True,0,0,,20,False,,2,2,2,0,HIGH HIGH,HIGH,0.7315634115537926,0.7315634115537926,0.081,0.081,491.4,0,0
+traj_heldout_pos_markov_intermediate,43,WEAK,0.9977627204661862,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE LOW,MODERATE,0.5668715868790528,0.5668715868790528,0.242,0.242,95.8,0,0
+traj_heldout_pos_markov_intermediate,44,WEAK,0.8568558902321266,2,False,no_reproducible_partition,True,0,0,,18,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.3592443334872383,0.3592443334872383,0.389,0.389,102.5,0,0
+traj_heldout_pos_markov_intermediate,45,WEAK,0.21730275721241243,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.4747509512793024,0.4747509512793024,0.27,0.27,380.2,0,0
+traj_heldout_pos_markov_intermediate,46,CLUSTERABLE,0.0,2,False,no_reproducible_partition,True,0,0,,35,False,,2,2,2,0,HIGH HIGH,HIGH,0.5646002335782988,0.5646002335782988,0.248,0.248,482.5,0,0
+traj_heldout_pos_markov_intermediate,47,WEAK,0.7498132852002712,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.6734338607952961,0.6734338607952961,0.149,0.149,400.9,0,0
+traj_heldout_pos_markov_intermediate,48,WEAK,0.9901315353554611,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,36,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.782537023508833,0.782537023508833,0.072,0.072,398.4,0,0
+traj_heldout_pos_markov_intermediate,49,WEAK,0.49790010591428724,2,False,no_reproducible_partition,True,0,0,,30,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.3114291136736425,0.3114291136736425,0.438,0.438,124.7,0,0
+traj_null_replicas_meet,0,WEAK,0.8131832413718095,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.019,0.019,144.1,0,0
+traj_null_replicas_meet,1,WEAK,0.99166207734284,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,10 19,False,,3,3,3,0,LOW MODERATE LOW,MODERATE,0.0,0.0,0.03,0.03,105.2,0,0
+traj_null_replicas_meet,2,WEAK,0.9914753936330143,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 11,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.032,0.032,99.5,0,0
+traj_null_replicas_meet,3,WEAK,0.7071373818202712,7,False,insufficient_sampling,False,4,0,no_reproducible_partition,13 11,False,,4,4,4,0,MODERATE LOW MODERATE LOW,MODERATE,0.0,0.0,0.026,0.026,106.6,0,0
+traj_null_replicas_meet,4,WEAK,0.9956873090361965,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,12 10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,143.2,0,0
+traj_null_replicas_meet,5,WEAK,0.997926511616388,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 14,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,110.7,0,0
+traj_null_replicas_meet,6,WEAK,0.9980100660427548,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 16,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.131,0.131,97.8,0,0
+traj_null_replicas_meet,7,WEAK,1.0,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 9,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.0,0.0,95.2,0,0
+traj_null_replicas_meet,8,WEAK,0.9932823085145955,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,11 9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.0,0.0,94.0,0,0
+traj_null_replicas_meet,9,WEAK,0.9911995389384646,8,False,insufficient_sampling,False,8,0,no_reproducible_partition,14 16,False,,8,8,8,0,LOW MODERATE MODERATE LOW LOW MODERATE LOW LOW,MODERATE,0.0,0.0,0.099,0.099,95.8,0,0
+traj_null_replicas_meet,10,WEAK,0.9993646648170124,9,False,insufficient_sampling,False,6,0,no_reproducible_partition,11 13,False,,6,6,6,0,LOW LOW LOW LOW MODERATE LOW,MODERATE,0.0,0.0,0.12,0.12,106.5,0,0
+traj_null_replicas_meet,11,WEAK,0.985352074711059,7,False,insufficient_sampling,False,5,0,no_reproducible_partition,9 8,False,,5,5,5,0,MODERATE MODERATE LOW MODERATE LOW,MODERATE,0.0,0.0,0.001,0.001,90.6,0,0
+traj_null_replicas_meet,12,WEAK,1.0,7,False,insufficient_sampling,False,3,0,no_reproducible_partition,23 12,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.001,0.001,104.7,0,0
+traj_null_replicas_meet,13,WEAK,0.9947638005208208,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,9 18,False,,3,3,3,0,LOW LOW MODERATE,MODERATE,0.0,0.0,0.0,0.0,116.6,0,0
+traj_null_replicas_meet,14,WEAK,1.0,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,9 8,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.251,0.251,91.9,0,0
+traj_null_replicas_meet,15,WEAK,1.0,10,False,insufficient_sampling,False,4,0,no_reproducible_partition,15 9,False,,4,4,4,0,LOW LOW MODERATE LOW,MODERATE,0.0,0.0,0.114,0.114,98.6,0,0
+traj_null_replicas_meet,16,WEAK,0.9981783194030208,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,13 18,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.028,0.028,106.4,0,0
+traj_null_replicas_meet,17,WEAK,0.998740283265321,7,False,insufficient_sampling,False,3,0,no_reproducible_partition,15 10,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.085,0.085,90.8,0,0
+traj_null_replicas_meet,18,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,15 9,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.128,0.128,93.1,0,0
+traj_null_replicas_meet,19,WEAK,1.0,8,False,insufficient_sampling,False,4,0,no_reproducible_partition,9 9,False,,4,4,4,0,LOW MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.182,0.182,94.6,0,0
+traj_null_replicas_meet,20,WEAK,0.9930845152301973,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,12 12,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.0,0.0,100.3,0,0
+traj_null_replicas_meet,21,WEAK,1.0,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,9 8,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,92.3,0,0
+traj_null_replicas_meet,22,WEAK,0.9945082309261198,10,False,insufficient_sampling,False,4,0,no_reproducible_partition,14 10,False,,4,4,4,0,MODERATE MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.198,0.198,112.0,0,0
+traj_null_replicas_meet,23,WEAK,1.0,7,False,insufficient_sampling,False,3,0,no_reproducible_partition,10 9,False,,3,3,3,0,LOW MODERATE LOW,MODERATE,0.0,0.0,0.085,0.085,102.2,0,0
+traj_null_replicas_meet,24,WEAK,0.9983234252688109,4,False,insufficient_sampling,False,5,0,no_reproducible_partition,10 9,False,,5,5,5,0,MODERATE MODERATE LOW LOW LOW,MODERATE,0.0,0.0,0.089,0.089,103.7,0,0
+traj_null_replicas_meet,25,WEAK,0.9961455043226599,3,False,insufficient_sampling,False,2,0,no_reproducible_partition,9 8,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.141,0.141,91.4,0,0
+traj_null_replicas_meet,26,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,9 10,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.0,0.0,103.0,0,0
+traj_null_replicas_meet,27,WEAK,0.9570314190559142,6,False,insufficient_sampling,False,2,0,no_reproducible_partition,14 14,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.013,0.013,118.1,0,0
+traj_null_replicas_meet,28,WEAK,0.9993540001112241,10,False,insufficient_sampling,False,9,0,no_reproducible_partition,17 23,False,,9,9,9,0,LOW MODERATE MODERATE MODERATE MODERATE MODERATE MODERATE LOW LOW,MODERATE,0.0,0.0,0.014,0.014,97.3,0,0
+traj_null_replicas_meet,29,WEAK,0.9964859812753505,7,False,insufficient_sampling,False,2,0,no_reproducible_partition,11 15,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.029,0.029,119.1,0,0
+traj_null_replicas_meet,30,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.004,0.004,849.3,0,0
+traj_null_replicas_meet,31,WEAK,1.0,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 13,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.002,0.002,101.5,0,0
+traj_null_replicas_meet,32,WEAK,1.0,9,False,insufficient_sampling,False,3,0,no_reproducible_partition,11 9,False,,3,3,3,0,LOW MODERATE MODERATE,MODERATE,0.0,0.0,0.011,0.011,109.1,0,0
+traj_null_replicas_meet,33,WEAK,0.9982337162508835,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,13 12,False,,3,3,3,0,MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.071,0.071,94.4,0,0
+traj_null_replicas_meet,34,WEAK,0.9987961573415701,5,False,insufficient_sampling,False,2,0,no_reproducible_partition,16 10,False,,3,3,3,0,LOW MODERATE LOW,MODERATE,0.0,0.0,0.062,0.062,99.0,0,0
+traj_null_replicas_meet,35,WEAK,0.9952404008843811,7,False,insufficient_sampling,False,3,0,no_reproducible_partition,10 11,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.171,0.171,88.9,0,0
+traj_null_replicas_meet,36,WEAK,1.0,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,17 9,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.135,0.135,104.1,0,0
+traj_null_replicas_meet,37,WEAK,0.9881285572334058,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,12 10,False,,2,2,2,0,LOW MODERATE,MODERATE,0.0,0.0,0.018,0.018,96.4,0,0
+traj_null_replicas_meet,38,WEAK,1.0,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,11 11,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.102,0.102,107.4,0,0
+traj_null_replicas_meet,39,WEAK,0.9935845063283091,8,False,insufficient_sampling,False,3,0,no_reproducible_partition,15 10,False,,3,3,3,0,LOW MODERATE LOW,MODERATE,0.0,0.0,0.043,0.043,91.0,0,0
+traj_null_replicas_meet,40,WEAK,0.9942634277246514,9,False,insufficient_sampling,False,4,0,no_reproducible_partition,18 11,False,,4,4,4,0,LOW LOW MODERATE LOW,MODERATE,0.0,0.0,0.251,0.251,89.1,0,0
+traj_null_replicas_meet,41,WEAK,0.9956430610982749,4,False,insufficient_sampling,False,2,0,no_reproducible_partition,9 10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.141,0.141,107.6,0,0
+traj_null_replicas_meet,42,WEAK,0.9979618137186532,8,False,insufficient_sampling,False,4,0,no_reproducible_partition,13 11,False,,4,4,4,0,LOW LOW LOW MODERATE,MODERATE,0.0,0.0,0.226,0.226,91.5,0,0
+traj_null_replicas_meet,43,WEAK,0.9940505088705796,8,False,insufficient_sampling,False,2,0,no_reproducible_partition,9 9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.243,0.243,335.5,0,0
+traj_null_replicas_meet,44,WEAK,0.9919337661867363,4,False,insufficient_sampling,False,5,0,no_reproducible_partition,15 15,False,,5,5,5,0,LOW MODERATE MODERATE MODERATE LOW,MODERATE,0.0,0.0,0.07,0.07,92.0,0,0
+traj_null_replicas_meet,45,WEAK,1.0,9,False,insufficient_sampling,False,8,0,no_reproducible_partition,16 13,False,,8,8,8,0,LOW MODERATE LOW LOW LOW LOW LOW LOW,MODERATE,0.0,0.0,0.135,0.135,94.2,0,0
+traj_null_replicas_meet,46,WEAK,0.9129854974960175,10,False,insufficient_sampling,False,3,0,no_reproducible_partition,10 12,False,,3,3,3,0,LOW LOW LOW,LOW,0.0,0.0,0.127,0.127,92.3,0,0
+traj_null_replicas_meet,47,WEAK,1.0,9,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 18,False,,2,2,2,0,MODERATE LOW,MODERATE,0.0,0.0,0.118,0.118,94.4,0,0
+traj_null_replicas_meet,48,WEAK,0.9998118886812688,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,10 11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.0,0.0,94.6,0,0
+traj_null_replicas_meet,49,WEAK,0.995712231158174,10,False,insufficient_sampling,False,2,0,no_reproducible_partition,8 10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.0,0.0,0.009,0.009,292.7,0,0
+traj_pos_markov_fast,0,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9961962076126845,0.9961962076126845,0.002,0.002,231.5,0,0
+traj_pos_markov_fast,1,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,273.1,0,0
+traj_pos_markov_fast,2,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9917837941249306,0.9917837941249306,0.004,0.004,204.3,0,0
+traj_pos_markov_fast,3,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9940580460130745,0.9940580460130745,0.003,0.003,354.1,0,0
+traj_pos_markov_fast,4,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9253665742567477,0.9253665742567477,0.024,0.024,498.3,0,0
+traj_pos_markov_fast,5,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8982749348360286,0.8982749348360286,0.044,0.044,753.1,0,0
+traj_pos_markov_fast,6,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.6891303043892806,0.6891303043892806,0.169,0.169,783.3,0,0
+traj_pos_markov_fast,7,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,251.7,0,0
+traj_pos_markov_fast,8,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9195098556691815,0.9195098556691815,0.041,0.041,395.2,0,0
+traj_pos_markov_fast,9,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,48,False,,2,2,2,0,HIGH HIGH,HIGH,0.9962442565923937,0.9962442565923937,0.002,0.002,502.6,0,0
+traj_pos_markov_fast,10,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,409.3,0,0
+traj_pos_markov_fast,11,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,369.8,0,0
+traj_pos_markov_fast,12,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,205.3,0,0
+traj_pos_markov_fast,13,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,382.2,0,0
+traj_pos_markov_fast,14,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8511398758864278,0.8511398758864278,0.059,0.059,349.0,0,0
+traj_pos_markov_fast,15,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.994630454565672,0.994630454565672,0.003,0.003,360.4,0,0
+traj_pos_markov_fast,16,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9625173087989981,0.9625173087989981,0.019,0.019,682.3,0,0
+traj_pos_markov_fast,17,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9453040592159582,0.9453040592159582,0.028,0.028,639.5,0,0
+traj_pos_markov_fast,18,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9638203882634493,0.9638203882634493,0.019,0.019,588.8,0,0
+traj_pos_markov_fast,19,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,229.8,0,0
+traj_pos_markov_fast,20,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,394.4,0,0
+traj_pos_markov_fast,21,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9038837863609446,0.9038837863609446,0.049,0.049,550.4,0,0
+traj_pos_markov_fast,22,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9777978095504422,0.9777978095504422,0.011,0.011,261.4,0,0
+traj_pos_markov_fast,23,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.987258287600703,0.987258287600703,0.003,0.003,425.7,0,0
+traj_pos_markov_fast,24,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9776939978052872,0.9776939978052872,0.003,0.003,409.2,0,0
+traj_pos_markov_fast,25,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9960119920959685,0.9960119920959685,0.002,0.002,417.4,0,0
+traj_pos_markov_fast,26,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,418.4,0,0
+traj_pos_markov_fast,27,CLUSTERABLE,0.021358708484357614,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9743378539853653,0.9743378539853653,0.013,0.013,526.1,0,0
+traj_pos_markov_fast,28,WEAK,0.21908473957441066,2,True,partition_not_confirmed,True,0,0,,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9472135670259777,0.9472135670259777,0.017,0.017,559.8,0,0
+traj_pos_markov_fast,29,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,243.2,0,0
+traj_pos_markov_fast,30,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,38,False,,2,2,2,0,HIGH HIGH,HIGH,0.9623735346104184,0.9623735346104184,0.011,0.011,670.4,0,0
+traj_pos_markov_fast,31,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9833398714730603,0.9833398714730603,0.006,0.006,208.2,0,0
+traj_pos_markov_fast,32,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9723116375639093,0.9723116375639093,0.014,0.014,528.0,0,0
+traj_pos_markov_fast,33,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9781702432335492,0.9781702432335492,0.011,0.011,309.8,0,0
+traj_pos_markov_fast,34,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,252.8,0,0
+traj_pos_markov_fast,35,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,395.2,0,0
+traj_pos_markov_fast,36,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9165626492160338,0.9165626492160338,0.035,0.035,407.6,0,0
+traj_pos_markov_fast,37,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9441509500279346,0.9441509500279346,0.028,0.028,412.8,0,0
+traj_pos_markov_fast,38,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,375.9,0,0
+traj_pos_markov_fast,39,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,329.5,0,0
+traj_pos_markov_fast,40,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.741994364531705,0.741994364531705,0.139,0.139,525.3,0,0
+traj_pos_markov_fast,41,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9939098854371935,0.9939098854371935,0.003,0.003,247.5,0,0
+traj_pos_markov_fast,42,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8416853486193301,0.8416853486193301,0.081,0.081,515.5,0,0
+traj_pos_markov_fast,43,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,299.6,0,0
+traj_pos_markov_fast,44,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9332942734244695,0.9332942734244695,0.017,0.017,628.9,0,0
+traj_pos_markov_fast,45,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8236320572341375,0.8236320572341375,0.091,0.091,560.0,0,0
+traj_pos_markov_fast,46,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.95469064211257,0.95469064211257,0.005,0.005,241.5,0,0
+traj_pos_markov_fast,47,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,239.4,0,0
+traj_pos_markov_fast,48,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9919917408955421,0.9919917408955421,0.004,0.004,380.9,0,0
+traj_pos_markov_fast,49,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8820416329890202,0.8820416329890202,0.06,0.06,556.6,0,0
+traj_pos_markov_medium,0,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9942925412308626,0.9942925412308626,0.002,0.002,464.0,0,0
+traj_pos_markov_medium,1,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,19,False,,2,2,2,0,HIGH HIGH,HIGH,0.9620183089507148,0.9620183089507148,0.012,0.012,644.1,0,0
+traj_pos_markov_medium,2,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,33,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,251.7,0,0
+traj_pos_markov_medium,3,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8074045983570782,0.8074045983570782,0.105,0.105,909.6,0,0
+traj_pos_markov_medium,4,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,46,False,,2,2,2,0,HIGH HIGH,HIGH,0.9981141130969607,0.9981141130969607,0.001,0.001,530.7,0,0
+traj_pos_markov_medium,5,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9941541894963661,0.9941541894963661,0.003,0.003,519.9,0,0
+traj_pos_markov_medium,6,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,489.4,0,0
+traj_pos_markov_medium,7,CLUSTERABLE,0.005855998120549044,2,True,insufficient_sampling,False,2,0,distinct_states,19,False,,2,2,2,0,HIGH HIGH,HIGH,0.9988466859422429,0.9988466859422429,0.001,0.001,572.1,0,0
+traj_pos_markov_medium,8,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,41,False,,2,2,2,0,HIGH HIGH,HIGH,0.9309890793716271,0.9309890793716271,0.033,0.033,541.8,0,0
+traj_pos_markov_medium,9,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,23,False,,2,2,2,0,HIGH HIGH,HIGH,0.9401910002519189,0.9401910002519189,0.031,0.031,661.3,0,0
+traj_pos_markov_medium,10,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,42,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,381.6,0,0
+traj_pos_markov_medium,11,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,31,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,300.3,0,0
+traj_pos_markov_medium,12,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,49,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,187.6,0,0
+traj_pos_markov_medium,13,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,35,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,427.5,0,0
+traj_pos_markov_medium,14,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,43,False,,2,2,2,0,HIGH HIGH,HIGH,0.8563727197107975,0.8563727197107975,0.074,0.074,844.6,0,0
+traj_pos_markov_medium,15,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,291.0,0,0
+traj_pos_markov_medium,16,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,33,False,,2,2,2,0,HIGH HIGH,HIGH,0.9971916207265906,0.9971916207265906,0.002,0.002,493.0,0,0
+traj_pos_markov_medium,17,CLUSTERABLE,2.0529179841966005e-05,2,True,distinct_states,True,0,0,,30,False,,2,2,2,0,HIGH HIGH,HIGH,0.8351190837932909,0.8351190837932909,0.075,0.075,567.7,0,0
+traj_pos_markov_medium,18,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,34,False,,2,2,2,0,HIGH HIGH,HIGH,0.9222725872666246,0.9222725872666246,0.04,0.04,549.7,0,0
+traj_pos_markov_medium,19,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,13,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,235.1,0,0
+traj_pos_markov_medium,20,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,205.1,0,0
+traj_pos_markov_medium,21,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,48,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,515.9,0,0
+traj_pos_markov_medium,22,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,457.2,0,0
+traj_pos_markov_medium,23,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,457.0,0,0
+traj_pos_markov_medium,24,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,31,False,,2,2,2,0,HIGH HIGH,HIGH,0.9959701186431,0.9959701186431,0.0,0.0,462.0,0,0
+traj_pos_markov_medium,25,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,27,False,,2,2,2,0,HIGH HIGH,HIGH,0.9954696205119545,0.9954696205119545,0.003,0.003,376.3,0,0
+traj_pos_markov_medium,26,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,308.4,0,0
+traj_pos_markov_medium,27,CLUSTERABLE,0.007188447047799418,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.8689606470099932,0.8689606470099932,0.068,0.068,762.8,0,0
+traj_pos_markov_medium,28,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,44,False,,2,2,2,0,HIGH HIGH,HIGH,0.9721549723864217,0.9721549723864217,0.0,0.0,579.6,0,0
+traj_pos_markov_medium,29,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,20,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,246.6,0,0
+traj_pos_markov_medium,30,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,39,False,,2,2,2,0,HIGH HIGH,HIGH,0.8670876157667226,0.8670876157667226,0.059,0.059,677.0,0,0
+traj_pos_markov_medium,31,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,44,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,255.3,0,0
+traj_pos_markov_medium,32,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,23,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,272.6,0,0
+traj_pos_markov_medium,33,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,1,0,distinct_states,25,False,,2,2,2,0,HIGH HIGH,HIGH,0.9921020560698591,0.9921020560698591,0.005,0.005,388.0,0,0
+traj_pos_markov_medium,34,CLUSTERABLE,0.0,3,True,insufficient_sampling,False,2,0,distinct_states,49,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,330.3,0,0
+traj_pos_markov_medium,35,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9937533043858916,0.9937533043858916,0.005,0.005,638.8,0,0
+traj_pos_markov_medium,36,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,23,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,208.3,0,0
+traj_pos_markov_medium,37,CLUSTERABLE,7.289651562825128e-06,2,True,insufficient_sampling,False,2,0,distinct_states,12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,471.4,0,0
+traj_pos_markov_medium,38,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,42,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,472.5,0,0
+traj_pos_markov_medium,39,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,468.5,0,0
+traj_pos_markov_medium,40,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,21,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,601.6,0,0
+traj_pos_markov_medium,41,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,20,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,204.7,0,0
+traj_pos_markov_medium,42,WEAK,0.8878925972158721,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,36,False,,2,2,2,0,MODERATE LOW,MODERATE,0.4629487450457396,0.4629487450457396,0.301,0.301,94.3,0,0
+traj_pos_markov_medium,43,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,393.4,0,0
+traj_pos_markov_medium,44,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,23,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,327.0,0,0
+traj_pos_markov_medium,45,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,500.6,0,0
+traj_pos_markov_medium,46,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,23,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,399.2,0,0
+traj_pos_markov_medium,47,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,445.7,0,0
+traj_pos_markov_medium,48,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,46,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,239.2,0,0
+traj_pos_markov_medium,49,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,39,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,375.9,0,0
+traj_pos_markov_replicas,0,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,41 36,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,329.3,0,0
+traj_pos_markov_replicas,1,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,38 23,False,,2,2,2,0,HIGH HIGH,HIGH,0.9781108567310594,0.9781108567310594,0.011,0.011,464.2,0,0
+traj_pos_markov_replicas,2,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,11 22,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,245.7,0,0
+traj_pos_markov_replicas,3,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,39 21,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,286.4,0,0
+traj_pos_markov_replicas,4,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22 24,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,329.6,0,0
+traj_pos_markov_replicas,5,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,37 17,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,198.9,0,0
+traj_pos_markov_replicas,6,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,28 12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,218.4,0,0
+traj_pos_markov_replicas,7,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,12 9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,327.3,0,0
+traj_pos_markov_replicas,8,CLUSTERABLE,0.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,48 11,False,,2,2,2,0,HIGH MODERATE,HIGH,0.6803703661362471,0.6803703661362471,0.182,0.182,189.3,0,0
+traj_pos_markov_replicas,9,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,17 10,False,,2,2,2,0,HIGH HIGH,HIGH,0.9447942814395919,0.9447942814395919,0.032,0.032,555.6,0,0
+traj_pos_markov_replicas,10,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,19 17,False,,2,2,2,0,HIGH HIGH,HIGH,0.9350965443959804,0.9350965443959804,0.032,0.032,878.0,0,0
+traj_pos_markov_replicas,11,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,12 48,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,401.4,0,0
+traj_pos_markov_replicas,12,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,1,0,distinct_states,19 37,False,,2,2,2,0,HIGH HIGH,HIGH,0.7551475050281964,0.7551475050281964,0.13,0.13,720.7,0,0
+traj_pos_markov_replicas,13,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,13 27,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,326.0,0,0
+traj_pos_markov_replicas,14,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,20 14,False,,2,2,2,0,HIGH HIGH,HIGH,0.97393976374416,0.97393976374416,0.015,0.015,599.6,0,0
+traj_pos_markov_replicas,15,WEAK,0.9926973895913002,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,22 31,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9492782915020067,0.9492782915020067,0.021,0.021,796.6,0,0
+traj_pos_markov_replicas,16,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22 31,False,,2,2,2,0,HIGH HIGH,HIGH,0.9873838820928162,0.9873838820928162,0.006,0.006,256.4,0,0
+traj_pos_markov_replicas,17,CLUSTERABLE,4.296714585239059e-06,2,True,insufficient_sampling,False,2,0,distinct_states,50 34,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,428.3,0,0
+traj_pos_markov_replicas,18,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22 10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,703.7,0,0
+traj_pos_markov_replicas,19,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,13 24,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,203.8,0,0
+traj_pos_markov_replicas,20,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,38 15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,294.8,0,0
+traj_pos_markov_replicas,21,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22 17,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,353.5,0,0
+traj_pos_markov_replicas,22,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,12 13,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,216.6,0,0
+traj_pos_markov_replicas,23,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,15 22,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,211.9,0,0
+traj_pos_markov_replicas,24,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,17 40,False,,2,2,2,0,HIGH HIGH,HIGH,0.8748073242875629,0.8748073242875629,0.053,0.053,864.8,0,0
+traj_pos_markov_replicas,25,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,27 18,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,690.5,0,0
+traj_pos_markov_replicas,26,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,38 11,False,,2,2,2,0,HIGH HIGH,HIGH,0.9968863422677635,0.9968863422677635,0.002,0.002,334.1,0,0
+traj_pos_markov_replicas,27,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,11 26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,279.4,0,0
+traj_pos_markov_replicas,28,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,18 19,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,316.1,0,0
+traj_pos_markov_replicas,29,WEAK,0.3396824545147239,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,20 28,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,515.9,0,0
+traj_pos_markov_replicas,30,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,25 21,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,312.5,0,0
+traj_pos_markov_replicas,31,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,17 18,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,323.4,0,0
+traj_pos_markov_replicas,32,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,16 15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,313.1,0,0
+traj_pos_markov_replicas,33,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,47 19,False,,2,2,2,0,HIGH HIGH,HIGH,0.9985198880698601,0.9985198880698601,0.001,0.001,430.2,0,0
+traj_pos_markov_replicas,34,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,24 15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,238.8,0,0
+traj_pos_markov_replicas,35,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,37 25,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,392.9,0,0
+traj_pos_markov_replicas,36,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,16 15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,186.1,0,0
+traj_pos_markov_replicas,37,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,44 14,False,,2,2,2,0,HIGH HIGH,HIGH,0.9853580438274624,0.9853580438274624,0.008,0.008,637.2,0,0
+traj_pos_markov_replicas,38,CLUSTERABLE,0.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50 23,False,,2,2,2,0,HIGH HIGH,HIGH,0.7428102940858655,0.7428102940858655,0.14,0.14,366.5,0,0
+traj_pos_markov_replicas,39,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,32 38,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,451.6,0,0
+traj_pos_markov_replicas,40,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,17 37,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,300.1,0,0
+traj_pos_markov_replicas,41,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9 39,False,,2,2,2,0,HIGH HIGH,HIGH,0.7492953296034394,0.7492953296034394,0.136,0.136,1300.1,0,0
+traj_pos_markov_replicas,42,CLUSTERABLE,0.002487662560461845,2,True,insufficient_sampling,False,2,0,distinct_states,37 16,False,,2,2,2,0,HIGH HIGH,HIGH,0.996979150391311,0.996979150391311,0.002,0.002,494.9,0,0
+traj_pos_markov_replicas,43,CLUSTERABLE,6.012066811722505e-06,2,True,insufficient_sampling,False,2,0,distinct_states,50 32,False,,2,2,2,0,HIGH HIGH,HIGH,0.9888915071725237,0.9888915071725237,0.005,0.005,559.9,0,0
+traj_pos_markov_replicas,44,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,10 24,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,367.1,0,0
+traj_pos_markov_replicas,45,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,47 11,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,325.3,0,0
+traj_pos_markov_replicas,46,CLUSTERABLE,1.7348882857759484e-05,2,True,insufficient_sampling,False,2,0,distinct_states,12 38,False,,2,2,2,0,HIGH HIGH,HIGH,0.9839763906549731,0.9839763906549731,0.008,0.008,342.6,0,0
+traj_pos_markov_replicas,47,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,37 40,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,319.7,0,0
+traj_pos_markov_replicas,48,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,24 20,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,293.8,0,0
+traj_pos_markov_replicas,49,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,15 35,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,364.2,0,0
+traj_pos_markov_slow,0,CLUSTERABLE,5.071065438677635e-07,2,True,insufficient_sampling,False,2,0,distinct_states,26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,548.4,0,0
+traj_pos_markov_slow,1,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,245.7,0,0
+traj_pos_markov_slow,2,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,16,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,265.0,0,0
+traj_pos_markov_slow,3,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.7603518974865011,0.7603518974865011,0.126,0.126,805.1,0,0
+traj_pos_markov_slow,4,WEAK,0.5394631992436434,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,17,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,198.5,0,0
+traj_pos_markov_slow,5,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,436.2,0,0
+traj_pos_markov_slow,6,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,11,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,1396.4,0,0
+traj_pos_markov_slow,7,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,16,False,,2,2,2,0,HIGH HIGH,HIGH,0.889544310960169,0.889544310960169,0.075,0.075,558.3,0,0
+traj_pos_markov_slow,8,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,14,False,,2,2,2,0,HIGH HIGH,HIGH,0.9097397368743723,0.9097397368743723,0.046,0.046,360.0,0,0
+traj_pos_markov_slow,9,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,16,False,,2,2,2,0,HIGH HIGH,HIGH,0.9213342140957528,0.9213342140957528,0.034,0.034,548.2,0,0
+traj_pos_markov_slow,10,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,13,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,364.0,0,0
+traj_pos_markov_slow,11,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,907.6,0,0
+traj_pos_markov_slow,12,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,18,False,,2,2,2,0,HIGH HIGH,HIGH,0.9326180986600011,0.9326180986600011,0.031,0.031,894.7,0,0
+traj_pos_markov_slow,13,CLUSTERABLE,0.00013348114454492244,2,True,insufficient_sampling,False,2,0,distinct_states,20,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,643.4,0,0
+traj_pos_markov_slow,14,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,31,False,,2,2,2,0,HIGH HIGH,HIGH,0.6591019808161024,0.6591019808161024,0.162,0.162,376.7,0,0
+traj_pos_markov_slow,15,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,17,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,317.0,0,0
+traj_pos_markov_slow,16,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,442.2,0,0
+traj_pos_markov_slow,17,WEAK,1.0,2,True,partition_not_confirmed,True,0,0,,21,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,708.8,0,0
+traj_pos_markov_slow,18,WEAK,0.99834060810272,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,29,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,463.2,0,0
+traj_pos_markov_slow,19,NOT_CLUSTERABLE,1.0,1,False,no_reproducible_partition,True,0,0,,50,False,,2,2,2,0,LOW LOW,LOW,0.0,0.0,0.24,0.24,46.3,0,0
+traj_pos_markov_slow,20,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,10,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,667.4,0,0
+traj_pos_markov_slow,21,CLUSTERABLE,0.0009578411109320006,2,True,insufficient_sampling,False,2,0,distinct_states,14,False,,2,2,2,0,HIGH HIGH,HIGH,0.9853721023004074,0.9853721023004074,0.01,0.01,1009.9,0,0
+traj_pos_markov_slow,22,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,23,False,,2,2,2,0,HIGH HIGH,HIGH,0.997256687649813,0.997256687649813,0.001,0.001,508.7,0,0
+traj_pos_markov_slow,23,WEAK,0.9998470145006041,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,1261.2,0,0
+traj_pos_markov_slow,24,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,10,False,,2,2,2,0,HIGH HIGH,HIGH,0.9959479334723892,0.9959479334723892,0.002,0.002,742.3,0,0
+traj_pos_markov_slow,25,WEAK,0.9930779231797706,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,10,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9907371094129984,0.9907371094129984,0.003,0.003,1256.4,0,0
+traj_pos_markov_slow,26,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,747.5,0,0
+traj_pos_markov_slow,27,WEAK,0.9989482884017861,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,48,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,900.4,0,0
+traj_pos_markov_slow,28,WEAK,0.8506024292916781,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,9,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9901452639048491,0.9901452639048491,0.003,0.003,759.6,0,0
+traj_pos_markov_slow,29,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,203.5,0,0
+traj_pos_markov_slow,30,WEAK,0.9991695626510928,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,18,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.8282982015516809,0.8282982015516809,0.053,0.053,561.1,0,0
+traj_pos_markov_slow,31,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,15,False,,2,2,2,0,HIGH HIGH,HIGH,0.9943904342911,0.9943904342911,0.003,0.003,547.9,0,0
+traj_pos_markov_slow,32,CLUSTERABLE,7.812479738378286e-05,2,True,insufficient_sampling,False,2,0,distinct_states,12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,622.0,0,0
+traj_pos_markov_slow,33,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,1300.5,0,0
+traj_pos_markov_slow,34,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,20,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,256.1,0,0
+traj_pos_markov_slow,35,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,21,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,404.5,0,0
+traj_pos_markov_slow,36,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,16,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,281.5,0,0
+traj_pos_markov_slow,37,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9,False,,2,2,2,0,HIGH HIGH,HIGH,0.991482257448428,0.991482257448428,0.004,0.004,390.3,0,0
+traj_pos_markov_slow,38,WEAK,0.7139753421999229,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,26,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,1067.3,0,0
+traj_pos_markov_slow,39,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,628.2,0,0
+traj_pos_markov_slow,40,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,48,False,,2,2,2,0,HIGH HIGH,HIGH,0.9507450619629733,0.9507450619629733,0.023,0.023,467.3,0,0
+traj_pos_markov_slow,41,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,335.8,0,0
+traj_pos_markov_slow,42,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,9,False,,2,2,2,0,HIGH HIGH,HIGH,0.9987298989873049,0.9987298989873049,0.001,0.001,743.0,0,0
+traj_pos_markov_slow,43,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,12,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,592.6,0,0
+traj_pos_markov_slow,44,WEAK,0.9975291569171395,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,28,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,917.8,0,0
+traj_pos_markov_slow,45,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,20,False,,2,2,2,0,HIGH HIGH,HIGH,0.9615970333142717,0.9615970333142717,0.011,0.011,440.5,0,0
+traj_pos_markov_slow,46,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,19,False,,2,2,2,0,HIGH HIGH,HIGH,0.9974575224958995,0.9974575224958995,0.001,0.001,235.4,0,0
+traj_pos_markov_slow,47,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,304.4,0,0
+traj_pos_markov_slow,48,CLUSTERABLE,5.307159535949957e-06,2,True,insufficient_sampling,False,2,0,distinct_states,44,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,708.4,0,0
+traj_pos_markov_slow,49,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,377.5,0,0
+traj_pos_markov_unequal,0,WEAK,0.09783257712669258,2,True,partition_not_confirmed,True,0,0,,22,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9978456062832496,0.9978456062832496,0.002,0.002,468.7,0,0
+traj_pos_markov_unequal,1,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9538565964075228,0.9538565964075228,0.014,0.014,714.4,0,0
+traj_pos_markov_unequal,2,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,30,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,375.7,0,0
+traj_pos_markov_unequal,3,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,343.3,0,0
+traj_pos_markov_unequal,4,WEAK,0.28226827146910194,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,471.2,0,0
+traj_pos_markov_unequal,5,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,41,False,,2,2,2,0,HIGH HIGH,HIGH,0.9988164731385034,0.9988164731385034,0.001,0.001,403.8,0,0
+traj_pos_markov_unequal,6,WEAK,0.9947708293876814,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,235.2,0,0
+traj_pos_markov_unequal,7,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,37,False,,2,2,2,0,HIGH HIGH,HIGH,0.9990936671274964,0.9990936671274964,0.001,0.001,384.4,0,0
+traj_pos_markov_unequal,8,CLUSTERABLE,0.0,2,False,insufficient_sampling,False,2,0,no_reproducible_partition,50,False,,2,2,2,0,HIGH LOW,HIGH,0.7933235176189339,0.7933235176189339,0.114,0.114,87.8,0,0
+traj_pos_markov_unequal,9,WEAK,1.0,2,False,no_reproducible_partition,True,0,0,,20,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.8967828860672403,0.8967828860672403,0.059,0.059,242.6,0,0
+traj_pos_markov_unequal,10,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,37,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9992278065806792,0.9992278065806792,0.001,0.001,688.8,0,0
+traj_pos_markov_unequal,11,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,346.9,0,0
+traj_pos_markov_unequal,12,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,0.9246423154408203,0.9246423154408203,0.044,0.044,734.4,0,0
+traj_pos_markov_unequal,13,WEAK,0.9931965935301665,2,True,partition_not_confirmed,True,0,0,,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,272.2,0,0
+traj_pos_markov_unequal,14,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,326.9,0,0
+traj_pos_markov_unequal,15,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,45,False,,2,2,2,0,HIGH HIGH,HIGH,0.9989986155128796,0.9989986155128796,0.001,0.001,603.0,0,0
+traj_pos_markov_unequal,16,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,32,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,380.8,0,0
+traj_pos_markov_unequal,17,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,23,False,,2,2,2,0,HIGH HIGH,HIGH,0.9931723031944569,0.9931723031944569,0.006,0.006,395.4,0,0
+traj_pos_markov_unequal,18,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,369.0,0,0
+traj_pos_markov_unequal,19,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,46,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,423.3,0,0
+traj_pos_markov_unequal,20,WEAK,0.17680617147598088,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9954292279861725,0.9954292279861725,0.001,0.001,849.4,0,0
+traj_pos_markov_unequal,21,WEAK,0.12020153475627038,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9312811386542341,0.9312811386542341,0.022,0.022,487.6,0,0
+traj_pos_markov_unequal,22,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,32,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,821.3,0,0
+traj_pos_markov_unequal,23,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9993789155524812,0.9993789155524812,0.001,0.001,771.6,0,0
+traj_pos_markov_unequal,24,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,31,False,,2,2,2,0,HIGH HIGH,HIGH,0.9969406250550406,0.9969406250550406,0.001,0.001,955.4,0,0
+traj_pos_markov_unequal,25,CLUSTERABLE,0.0007459555775721771,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,618.6,0,0
+traj_pos_markov_unequal,26,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,28,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,667.8,0,0
+traj_pos_markov_unequal,27,WEAK,0.9998472531715216,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9971147066559032,0.9971147066559032,0.004,0.004,871.6,0,0
+traj_pos_markov_unequal,28,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,1053.6,0,0
+traj_pos_markov_unequal,29,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,209.0,0,0
+traj_pos_markov_unequal,30,WEAK,0.997398141821104,2,False,insufficient_sampling,False,1,0,no_reproducible_partition,23,False,,2,2,2,0,MODERATE LOW,MODERATE,0.769703897364647,0.769703897364647,0.119,0.119,94.8,0,0
+traj_pos_markov_unequal,31,WEAK,0.991845774745013,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9865062983957521,0.9865062983957521,0.004,0.004,416.8,0,0
+traj_pos_markov_unequal,32,WEAK,0.9950754387951402,3,True,partition_not_confirmed,True,0,0,,37,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9879212943693294,0.9879212943693294,0.019,0.019,651.4,0,0
+traj_pos_markov_unequal,33,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,349.3,0,0
+traj_pos_markov_unequal,34,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,50,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,423.9,0,0
+traj_pos_markov_unequal,35,WEAK,0.9938236487931287,2,True,partition_not_confirmed,True,0,0,,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9992373569532856,0.9992373569532856,0.001,0.001,702.0,0,0
+traj_pos_markov_unequal,36,WEAK,0.8589561437692881,2,True,partition_not_confirmed,True,0,0,,33,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9776681785245787,0.9776681785245787,0.013,0.013,708.7,0,0
+traj_pos_markov_unequal,37,WEAK,0.5429388577205554,2,True,partition_not_confirmed,True,0,0,,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,624.2,0,0
+traj_pos_markov_unequal,38,WEAK,0.09543938515669315,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,40,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9666391163874071,0.9666391163874071,0.01,0.01,715.9,0,0
+traj_pos_markov_unequal,39,CLUSTERABLE,0.030491333582622127,2,True,insufficient_sampling,False,2,0,distinct_states,29,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,606.1,0,0
+traj_pos_markov_unequal,40,CLUSTERABLE,0.0012113443679473423,2,True,insufficient_sampling,False,2,0,distinct_states,37,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,213.2,0,0
+traj_pos_markov_unequal,41,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,26,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,272.6,0,0
+traj_pos_markov_unequal,42,WEAK,0.9938902861887042,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9932140191311298,0.9932140191311298,0.004,0.004,699.6,0,0
+traj_pos_markov_unequal,43,WEAK,0.7190357382317984,2,True,partition_not_confirmed,True,0,0,,17,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,528.7,0,0
+traj_pos_markov_unequal,44,WEAK,0.720959458367275,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,1.0,1.0,0.0,0.0,248.3,0,0
+traj_pos_markov_unequal,45,WEAK,1.0,2,True,insufficient_sampling,False,2,0,partition_not_confirmed,50,False,,2,2,2,0,MODERATE MODERATE,MODERATE,0.9787721207940172,0.9787721207940172,0.0,0.0,622.5,0,0
+traj_pos_markov_unequal,46,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,22,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,348.5,0,0
+traj_pos_markov_unequal,47,CLUSTERABLE,0.0,2,True,insufficient_sampling,False,2,0,distinct_states,37,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,262.8,0,0
+traj_pos_markov_unequal,48,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,15,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,316.7,0,0
+traj_pos_markov_unequal,49,CLUSTERABLE,0.0,2,True,distinct_states,True,0,0,,21,False,,2,2,2,0,HIGH HIGH,HIGH,1.0,1.0,0.0,0.0,343.5,0,0

@@ -1,0 +1,2 @@
+frames_per_trajectory,conclusion,n_clusters,noise,ari_alphaR_beta,ari_three_states,fraction_alphaR,fraction_alphaL,sampling_sufficient,second_pass,seconds
+300,distinct_states,2,0.002,0.985,0.951,0.306,0.028,True,False,29.9

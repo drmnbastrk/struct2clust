@@ -1,0 +1,586 @@
+{
+ "source": "https://files.rcsb.org/ligands/download/<ID>.cif",
+ "all_match": true,
+ "components": [
+  {
+   "component": "ALA",
+   "position": "inside chain",
+   "heavy_atoms": 5,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "ALA",
+   "position": "chain end",
+   "heavy_atoms": 6,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "ARG",
+   "position": "inside chain",
+   "heavy_atoms": 11,
+   "automorphisms": 2,
+   "renamings": [
+    "NH1->NH2 NH2->NH1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "ARG",
+   "position": "chain end",
+   "heavy_atoms": 12,
+   "automorphisms": 4,
+   "renamings": [
+    "NH1->NH2 NH2->NH1",
+    "NH1->NH2 NH2->NH1 O->OXT OXT->O",
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "ASN",
+   "position": "inside chain",
+   "heavy_atoms": 8,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "ASN",
+   "position": "chain end",
+   "heavy_atoms": 9,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "ASP",
+   "position": "inside chain",
+   "heavy_atoms": 8,
+   "automorphisms": 2,
+   "renamings": [
+    "OD1->OD2 OD2->OD1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "ASP",
+   "position": "chain end",
+   "heavy_atoms": 9,
+   "automorphisms": 4,
+   "renamings": [
+    "O->OXT OD1->OD2 OD2->OD1 OXT->O",
+    "O->OXT OXT->O",
+    "OD1->OD2 OD2->OD1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "CYS",
+   "position": "inside chain",
+   "heavy_atoms": 6,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "CYS",
+   "position": "chain end",
+   "heavy_atoms": 7,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "GLN",
+   "position": "inside chain",
+   "heavy_atoms": 9,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "GLN",
+   "position": "chain end",
+   "heavy_atoms": 10,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "GLU",
+   "position": "inside chain",
+   "heavy_atoms": 9,
+   "automorphisms": 2,
+   "renamings": [
+    "OE1->OE2 OE2->OE1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "GLU",
+   "position": "chain end",
+   "heavy_atoms": 10,
+   "automorphisms": 4,
+   "renamings": [
+    "O->OXT OE1->OE2 OE2->OE1 OXT->O",
+    "O->OXT OXT->O",
+    "OE1->OE2 OE2->OE1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "GLY",
+   "position": "inside chain",
+   "heavy_atoms": 4,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "GLY",
+   "position": "chain end",
+   "heavy_atoms": 5,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "HIS",
+   "position": "inside chain",
+   "heavy_atoms": 10,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "HIS",
+   "position": "chain end",
+   "heavy_atoms": 11,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "ILE",
+   "position": "inside chain",
+   "heavy_atoms": 8,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "ILE",
+   "position": "chain end",
+   "heavy_atoms": 9,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "LEU",
+   "position": "inside chain",
+   "heavy_atoms": 8,
+   "automorphisms": 2,
+   "renamings": [
+    "CD1->CD2 CD2->CD1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "LEU",
+   "position": "chain end",
+   "heavy_atoms": 9,
+   "automorphisms": 4,
+   "renamings": [
+    "CD1->CD2 CD2->CD1",
+    "CD1->CD2 CD2->CD1 O->OXT OXT->O",
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "LYS",
+   "position": "inside chain",
+   "heavy_atoms": 9,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "LYS",
+   "position": "chain end",
+   "heavy_atoms": 10,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "MET",
+   "position": "inside chain",
+   "heavy_atoms": 8,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "MET",
+   "position": "chain end",
+   "heavy_atoms": 9,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "PHE",
+   "position": "inside chain",
+   "heavy_atoms": 11,
+   "automorphisms": 2,
+   "renamings": [
+    "CD1->CD2 CD2->CD1 CE1->CE2 CE2->CE1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "PHE",
+   "position": "chain end",
+   "heavy_atoms": 12,
+   "automorphisms": 4,
+   "renamings": [
+    "CD1->CD2 CD2->CD1 CE1->CE2 CE2->CE1",
+    "CD1->CD2 CD2->CD1 CE1->CE2 CE2->CE1 O->OXT OXT->O",
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "PRO",
+   "position": "inside chain",
+   "heavy_atoms": 7,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "PRO",
+   "position": "chain end",
+   "heavy_atoms": 8,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "SER",
+   "position": "inside chain",
+   "heavy_atoms": 6,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "SER",
+   "position": "chain end",
+   "heavy_atoms": 7,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "THR",
+   "position": "inside chain",
+   "heavy_atoms": 7,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "THR",
+   "position": "chain end",
+   "heavy_atoms": 8,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "TRP",
+   "position": "inside chain",
+   "heavy_atoms": 14,
+   "automorphisms": 1,
+   "renamings": [],
+   "matches_table": true
+  },
+  {
+   "component": "TRP",
+   "position": "chain end",
+   "heavy_atoms": 15,
+   "automorphisms": 2,
+   "renamings": [
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "TYR",
+   "position": "inside chain",
+   "heavy_atoms": 12,
+   "automorphisms": 2,
+   "renamings": [
+    "CD1->CD2 CD2->CD1 CE1->CE2 CE2->CE1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "TYR",
+   "position": "chain end",
+   "heavy_atoms": 13,
+   "automorphisms": 4,
+   "renamings": [
+    "CD1->CD2 CD2->CD1 CE1->CE2 CE2->CE1",
+    "CD1->CD2 CD2->CD1 CE1->CE2 CE2->CE1 O->OXT OXT->O",
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "VAL",
+   "position": "inside chain",
+   "heavy_atoms": 7,
+   "automorphisms": 2,
+   "renamings": [
+    "CG1->CG2 CG2->CG1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "VAL",
+   "position": "chain end",
+   "heavy_atoms": 8,
+   "automorphisms": 4,
+   "renamings": [
+    "CG1->CG2 CG2->CG1",
+    "CG1->CG2 CG2->CG1 O->OXT OXT->O",
+    "O->OXT OXT->O"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "A",
+   "position": "inside chain",
+   "heavy_atoms": 22,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "A",
+   "position": "chain end",
+   "heavy_atoms": 23,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "C",
+   "position": "inside chain",
+   "heavy_atoms": 20,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "C",
+   "position": "chain end",
+   "heavy_atoms": 21,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "G",
+   "position": "inside chain",
+   "heavy_atoms": 23,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "G",
+   "position": "chain end",
+   "heavy_atoms": 24,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "U",
+   "position": "inside chain",
+   "heavy_atoms": 20,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "U",
+   "position": "chain end",
+   "heavy_atoms": 21,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DA",
+   "position": "inside chain",
+   "heavy_atoms": 21,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DA",
+   "position": "chain end",
+   "heavy_atoms": 22,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DC",
+   "position": "inside chain",
+   "heavy_atoms": 19,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DC",
+   "position": "chain end",
+   "heavy_atoms": 20,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DG",
+   "position": "inside chain",
+   "heavy_atoms": 22,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DG",
+   "position": "chain end",
+   "heavy_atoms": 23,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DT",
+   "position": "inside chain",
+   "heavy_atoms": 20,
+   "automorphisms": 2,
+   "renamings": [
+    "OP1->OP2 OP2->OP1"
+   ],
+   "matches_table": true
+  },
+  {
+   "component": "DT",
+   "position": "chain end",
+   "heavy_atoms": 21,
+   "automorphisms": 6,
+   "renamings": [
+    "OP1->OP2 OP2->OP1",
+    "OP1->OP2 OP2->OP3 OP3->OP1",
+    "OP1->OP3 OP2->OP1 OP3->OP2",
+    "OP1->OP3 OP3->OP1",
+    "OP2->OP3 OP3->OP2"
+   ],
+   "matches_table": true
+  }
+ ]
+}

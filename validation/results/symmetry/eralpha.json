@@ -1,0 +1,111 @@
+{
+ "input": "DATASET",
+ "n_structures": 409,
+ "atoms": 1326,
+ "variants": {
+  "usual": {
+   "groups_per_structure": 0,
+   "seconds_for_matrix": 1.0,
+   "clustering": {
+    "n_used": 399,
+    "clusterability": "CLUSTERABLE",
+    "conclusion": "distinct_states",
+    "n_clusters": 4,
+    "noise": 0.0576,
+    "cluster_sizes": [
+     239,
+     116,
+     14,
+     7
+    ],
+    "selection_estimates": [
+     1.0,
+     1.0
+    ],
+    "independent_estimates": [
+     1.0,
+     0.994,
+     0.889,
+     0.936
+    ],
+    "seconds": 25.1
+   }
+  },
+  "aromatic_charged": {
+   "groups_per_structure": 16,
+   "seconds_for_matrix": 7.2,
+   "rmsd_decrease": {
+    "pairs_with_a_decrease": 0.923,
+    "median": 0.011,
+    "p95": 0.0617,
+    "max": 0.1189,
+    "share_above_0.1_A": 0.0006,
+    "never_larger": true
+   },
+   "clustering": {
+    "n_used": 398,
+    "clusterability": "CLUSTERABLE",
+    "conclusion": "distinct_states",
+    "n_clusters": 4,
+    "noise": 0.0452,
+    "cluster_sizes": [
+     238,
+     119,
+     16,
+     7
+    ],
+    "selection_estimates": [
+     1.0,
+     1.0
+    ],
+    "independent_estimates": [
+     1.0,
+     0.917,
+     0.853,
+     0.942
+    ],
+    "seconds": 16.1
+   },
+   "ari_with_usual": 0.9879,
+   "structures_in_both": 397
+  },
+  "all_equivalent": {
+   "groups_per_structure": 50,
+   "seconds_for_matrix": 7.3,
+   "rmsd_decrease": {
+    "pairs_with_a_decrease": 0.9752,
+    "median": 0.015,
+    "p95": 0.0799,
+    "max": 0.1958,
+    "share_above_0.1_A": 0.0281,
+    "never_larger": true
+   },
+   "clustering": {
+    "n_used": 398,
+    "clusterability": "CLUSTERABLE",
+    "conclusion": "distinct_states",
+    "n_clusters": 4,
+    "noise": 0.0452,
+    "cluster_sizes": [
+     238,
+     119,
+     16,
+     7
+    ],
+    "selection_estimates": [
+     1.0,
+     1.0
+    ],
+    "independent_estimates": [
+     1.0,
+     0.958,
+     0.899,
+     0.966
+    ],
+    "seconds": 16.8
+   },
+   "ari_with_usual": 0.9879,
+   "structures_in_both": 397
+  }
+ }
+}

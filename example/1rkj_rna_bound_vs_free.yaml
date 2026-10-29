@@ -1,0 +1,14 @@
+# RNA of the nucleolin/RNA complex 1RKJ: 500 ns MD bound to the protein and free
+# in solution, clustered together on the RNA heavy atoms. From the repository root:
+#   python example/download_examples.py 1rkj
+#   struct2clust run -c example/1rkj_rna_bound_vs_free.yaml -o example/results -n 1RKJ_rna
+input:
+  type: trajectory
+  topology:            # one per trajectory: the two systems have different topologies
+    - example/data/1RKJ/complex/rna.gro
+    - example/data/1RKJ/rna/rna.gro
+  trajectory:
+    - example/data/1RKJ/complex/rna.xtc
+    - example/data/1RKJ/rna/rna.xtc
+figures:
+  cluster_view_max_members: 50   # cluster_views/: the 50 frames closest to each medoid

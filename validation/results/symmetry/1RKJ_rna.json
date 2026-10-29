@@ -1,0 +1,99 @@
+{
+ "input": "DATASET/config.yaml",
+ "n_structures": 1000,
+ "atoms": 441,
+ "variants": {
+  "usual": {
+   "groups_per_structure": 0,
+   "seconds_for_matrix": 1.8,
+   "clustering": {
+    "n_used": 1000,
+    "clusterability": "CLUSTERABLE",
+    "conclusion": "insufficient_sampling",
+    "n_clusters": 2,
+    "noise": 0.0,
+    "cluster_sizes": [
+     500,
+     500
+    ],
+    "selection_estimates": [
+     1.0,
+     1.0
+    ],
+    "independent_estimates": [
+     0.986,
+     1.0
+    ],
+    "seconds": 33.2
+   }
+  },
+  "aromatic_charged": {
+   "groups_per_structure": 20,
+   "seconds_for_matrix": 11.2,
+   "rmsd_decrease": {
+    "pairs_with_a_decrease": 0.6741,
+    "median": 0.0021,
+    "p95": 0.0053,
+    "max": 0.0142,
+    "share_above_0.1_A": 0.0,
+    "never_larger": true
+   },
+   "clustering": {
+    "n_used": 1000,
+    "clusterability": "CLUSTERABLE",
+    "conclusion": "insufficient_sampling",
+    "n_clusters": 2,
+    "noise": 0.0,
+    "cluster_sizes": [
+     500,
+     500
+    ],
+    "selection_estimates": [
+     1.0,
+     1.0
+    ],
+    "independent_estimates": [
+     0.986,
+     1.0
+    ],
+    "seconds": 27.6
+   },
+   "ari_with_usual": 1.0,
+   "structures_in_both": 1000
+  },
+  "all_equivalent": {
+   "groups_per_structure": 20,
+   "seconds_for_matrix": 13.7,
+   "rmsd_decrease": {
+    "pairs_with_a_decrease": 0.6741,
+    "median": 0.0021,
+    "p95": 0.0053,
+    "max": 0.0142,
+    "share_above_0.1_A": 0.0,
+    "never_larger": true
+   },
+   "clustering": {
+    "n_used": 1000,
+    "clusterability": "CLUSTERABLE",
+    "conclusion": "insufficient_sampling",
+    "n_clusters": 2,
+    "noise": 0.0,
+    "cluster_sizes": [
+     500,
+     500
+    ],
+    "selection_estimates": [
+     1.0,
+     1.0
+    ],
+    "independent_estimates": [
+     0.986,
+     1.0
+    ],
+    "seconds": 28.6
+   },
+   "ari_with_usual": 1.0,
+   "structures_in_both": 1000
+  }
+ }
+}

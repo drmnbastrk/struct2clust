@@ -1,0 +1,3 @@
+trajectory,frames,autocorrelation_time,autocorrelation_time_rel_error,block_used,politis_white_block,politis_white_M,used_over_politis_white
+complex,500,47.1,1.51,50.0,80.3,242,0.62
+rna,500,26.6,1.14,27.8,59.5,72,0.47
